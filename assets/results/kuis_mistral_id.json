@@ -1,0 +1,242 @@
+[
+    {
+        "no": 1,
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "answer": "1. Veracity Kebenaran Merupakan tingkat kebenaran Big Data, apakah data yang dikandung benar-benar bersih dan tepat atau tidak. Kebenaran data ekuivalen dengan kualitas data tersebut. 2. Value Nilai Merupakan tingkat nilai Big Data, apakah data yang dikandung benar-benar memiliki nilai atau tidak. Banyak data pada Big Data yang merupakan data bernilai tinggi dan tentu saja harus memiliki prosedur khusus untuk dapat mengaksesnya.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "reasoning": "Asisten memberikan penjelasan yang jelas dan akurat untuk Veracity dan Value, yang merupakan dua V tambahan yang dijelaskan dalam modul. Asisten juga memberikan contoh yang relevan untuk menggambarkan setiap konsep. Secara keseluruhan, tanggapannya bermanfaat dan informatif."
+    },
+    {
+        "no": 2,
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "answer": "Dua ciri yang lain yaitu: a. Veracity, big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan analisis yang mendalam. b. Value, big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna. Referensi: Prayogo, C., 2019, Apa Itu Big Data https:www.wartaekonomi.co.idread261904apa-itu-big-data, diakses pada 07 Mei 2021.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "reasoning": "Asisten memberikan penjelasan yang jelas dan akurat mengenai dua tambahan V yang dijelaskan dalam modul, Veracity dan Value. Asisten juga memberikan referensi untuk mendukung penjelasannya. Secara keseluruhan, jawaban memenuhi semua kriteria dengan skor 5."
+    },
+    {
+        "no": 3,
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "answer": "Veracity berarti big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar bisa menghasilkan keputusan yang tepat. Veracity mengarah pada seberapa akurat dan dipercaya suatu data  Value berarti big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna.atau dapat juga dikatakan seberapa bernilainya atau bermaknanya suatu data",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "reasoning": "Asisten memberikan penjelasan yang akurat dan relevan untuk Veracity dan Value, yang merupakan dua V tambahan yang dijelaskan dalam modul. Asisten menyebutkan bahwa Veracity mengacu pada keakuratan dan keandalan big data, sedangkan Value mengacu pada tingginya nilai atau signifikansi big data ketika diproses dengan benar menggunakan metode yang tepat. Asisten juga memberikan perbedaan yang jelas antara kedua konsep tersebut, sehingga memudahkan pengguna untuk memahami pentingnya keduanya dalam sistem Big Data."
+    },
+    {
+        "no": 4,
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "answer": "Veracity berarti big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar bisa menghasilkan keputusan yang tepat. Value berarti big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 4,
+        "reasoning": "Tanggapan asisten memberikan penjelasan singkat tentang Veracity dan Value, namun tidak memberikan penjelasan yang relevan untuk kedua konsep tersebut. Tanggapannya menyebutkan bahwa Veracity mengacu pada kualitas data dan penting untuk memastikan bahwa data yang dikumpulkan akurat, lengkap, dan konsisten. Namun, hal ini tidak menjelaskan secara spesifik bagaimana hal ini berkaitan dengan big data. Demikian pula, tanggapannya menyebutkan bahwa Nilai mengacu pada kegunaan dan relevansi data, namun tidak memberikan konteks atau penjelasan apa pun mengapa konsep-konsep ini penting dalam konteks data besar. Secara keseluruhan, meskipun tanggapan asisten singkat, penjelasannya mengenai Kebenaran dan Nilai kurang mendalam dan rinci."
+    },
+    {
+        "no": 5,
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "answer": "Veracity : Dalam konteks ini setara dengan kualitas. Kita memiliki semua datanya, tapi apakah datanya benar, bisakah ada data yang terlewatkan, Apakah datanya bersih dan akurat, Apakah mereka benar-benar memiliki sesuatu untuk ditawarkan. sehingga veracity ini merupakan kebenaran data yang kita dapatkan. Value : Nilai dari data yang kita dapatkan untuk menjalankan apa yang ingin dijalankan seperti bisnis.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 4,
+        "reasoning": "Asisten telah memberikan penjelasan mengenai Veracity dan Value, namun belum jelas bagaimana konsep tersebut berhubungan dengan 3 karakteristik Big Data (Variety, Velocity, dan Volume). Penjelasan Veracity juga agak kabur dan tidak memberikan definisi atau penjelasan yang jelas mengenai konsep tersebut. Secara keseluruhan, respons yang diberikan dapat ditingkatkan dengan memberikan lebih banyak konteks dan kejelasan tentang bagaimana kedua V tambahan tersebut berhubungan dengan topik utama modul."
+    },
+    {
+        "no": 1,
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "answer": "Contoh implementasi Big Data adalah pada bidang Ekonomi Bisnis dimana Big Data menyimpan data rekeningtabungan masing-masing dari nasabah dalam suatu wadah yang besar. Ketika akan melakukan suatu proses misal penarikan uang, pengiriman uang, maka diperlukan prosedur tertentu untuk dapat memprosesnya.",
+        "rubric": "Skor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 2: Jawaban menyertakan hanya satu contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan dua contoh implementasi Big Data yang relevan.\nSkor 4: Jawaban menyertakan tiga contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari tiga contoh implementasi Big Data yang relevan.",
+        "score": 1,
+        "reasoning": "Respons yang diberikan oleh asisten AI tidak mencakup contoh penerapan Big Data yang relevan di bidang lain selain layanan kesehatan, keuangan, manufaktur, ritel, dan transportasi. Contoh yang diberikan berkaitan dengan keuangan namun tidak menunjukkan bagaimana Big Data dapat digunakan dalam bidang ini di luar apa yang telah disebutkan dalam kebenaran dasar. Oleh karena itu, saya akan menilai tanggapan ini 1 dari 5."
+    },
+    {
+        "no": 2,
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "answer": "Contoh implementasi big data di bidang pariwisata, yaitu penggunaan big data untuk memetakan potensi dan menguatkan berbagai aspek pada sektor pariwisata dan ekonomi kreatif. Contohnya penggunaan big data berbagai platform social media untuk mempromosikan suatu destinasi wisata.",
+        "rubric": "Skor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 2: Jawaban menyertakan hanya satu contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan dua contoh implementasi Big Data yang relevan.\nSkor 4: Jawaban menyertakan tiga contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari tiga contoh implementasi Big Data yang relevan.",
+        "score": 3,
+        "reasoning": "Respons yang diberikan oleh asisten AI mencakup dua contoh relevan penerapan Big Data di industri pariwisata. Namun tidak menyertakan contoh dari bidang lain. Oleh karena itu, saya menilai tanggapan ini sebagai skor 3 dari 5."
+    },
+    {
+        "no": 3,
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "answer": "Dalam bidang farmasi, Big data dapat digunakan untuk mengurangi risiko kesalahan resep obat dalam menyerahkan obat kepada pasien. Kesalahan ini adalah pemberian obat yang berbeda dengan resep ibat dari hasil pemeriksaan sebelumnya yang dilakukan pasien. Big data dapat merekap data-data pasien dan data-data pemeriksaan pasein secara lengkap sehingga meminimalisasikamn kesalahan dari manusia dan dengan adanya data-data tesebut juga dapat diketahui riwayat penyakit pasien serta obat-obat apa saja yang sudah pernah digunakan pasein sehingga dapat menjadi referensi dokter untuk menentukan obat apa yang akan diberikan ke pasien tesebut. .",
+        "rubric": "Skor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 2: Jawaban menyertakan hanya satu contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan dua contoh implementasi Big Data yang relevan.\nSkor 4: Jawaban menyertakan tiga contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari tiga contoh implementasi Big Data yang relevan.",
+        "score": 4,
+        "reasoning": "Respons yang diberikan oleh asisten AI mencakup tiga contoh relevan penerapan Big Data di bidang kesehatan, keuangan, dan manufaktur. Namun, hal ini tidak mencakup contoh dari bidang lain seperti farmasi atau transportasi. Oleh karena itu, peringkat tersebut lebih rendah dari yang diharapkan."
+    },
+    {
+        "no": 4,
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "answer": "Sistem informasi rumah sakit SIMRS dimana akan merekap semua data-data pasien dan data pemeriksaan pasien. Dengan adanya rekapan data pasien diharapkan membantu petugas medis dalam mengurangi kesalahan resep obat dan bisa merekap data transaksi pasien secara mendalam. Untuk itu perlu diimplementasikan Big Data yang bertujuan menganalisa data rekap pasien untk membantu petugas medis dalam mengurangi kesalahan resep obat.",
+        "rubric": "Skor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 2: Jawaban menyertakan hanya satu contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan dua contoh implementasi Big Data yang relevan.\nSkor 4: Jawaban menyertakan tiga contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari tiga contoh implementasi Big Data yang relevan.",
+        "score": 3,
+        "reasoning": "Respons yang diberikan oleh asisten AI mencakup dua contoh relevan penerapan Big Data di layanan kesehatan, yang tidak disebutkan dalam modul. Namun, laporan ini tidak memberikan informasi tambahan apa pun di luar apa yang telah dinyatakan dalam kebenaran dasar. Oleh karena itu, saya akan menilai tanggapan ini sebagai 3 dari 5."
+    },
+    {
+        "no": 5,
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "answer": "Big data digunakan untuk penyimpanan data biometric dan camera cctv, dan digunakan AI face recognition, biasanya digunakan pada sistem keamanan di negara otoriter. Jika terekam CCTV maka pihak berwajib dapat dengan mudah mencari atau mengetahui identitas dari orang tersebut secara real time. Hal ini dapat memudahkan pemerintah dalam memonitor masyarakatnya.",
+        "rubric": "Skor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 2: Jawaban menyertakan hanya satu contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan dua contoh implementasi Big Data yang relevan.\nSkor 4: Jawaban menyertakan tiga contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari tiga contoh implementasi Big Data yang relevan.",
+        "score": 3,
+        "reasoning": "Respons yang diberikan oleh asisten AI mencakup dua contoh penerapan Big Data yang relevan di bidang keamanan, yang tidak disebutkan dalam modul. Contoh pertama menyebutkan penggunaan data biometrik dan kamera CCTV untuk menyimpan dan menganalisis informasi, sedangkan contoh kedua membahas bagaimana teknologi pengenalan wajah AI dapat digunakan dalam sistem keamanan untuk mengidentifikasi individu secara real-time. Namun, penting untuk dicatat bahwa contoh-contoh ini belum tentu merupakan implementasi Big Data yang positif atau etis, karena melibatkan pengawasan dan pemantauan terhadap warga negara tanpa persetujuan mereka."
+    },
+    {
+        "no": 1,
+        "question": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
+        "answer": "Data disebut Big Data apabila data berjumlah sangat besar, cepat atau kompleks sehingga sulit atau tidak mungkin untuk diproses menggunakan meode tradisional.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.\nSkor 2: Jawaban menyebutkan dan menjelaskan satu ciri Big Data secara singkat. \nSkor 3: Jawaban menyebutkan dan menjelaskan dua ciri Big Data secara singkat.\nSkor 4: Jawaban menyebutkan dan menjelaskan tiga ciri Big Data secara singkat.\nSkor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga ciri Big Data secara singkat.",
+        "score": 2,
+        "reasoning": "Tanggapan tersebut secara singkat menyebutkan karakteristik Big Data yang besar dan kompleks, namun tidak memberikan penjelasan atau contoh lebih lanjut. Di dalamnya juga tidak disebutkan empat karakteristik lainnya (Volume, Velocity, Variety, Veracity, dan Value) yang umumnya dikaitkan dengan Big Data."
+    },
+    {
+        "no": 2,
+        "question": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
+        "answer": "Disebut big data jika memiliki ciri-ciri sebagai berikut: a. Variety, variasi berarti big data memiliki karakteristik yang bermacam-macam dan tidak homogen, dapat terstruktur, tidak terstruktur, dan semistruktur yang dikumpulkan dari berbagai sumber. b. Velocity, mengacu pada kecepatan saat data dibuat secara real-time, tingkat perubahan, memiliki karakteristik cepat berubah baik dari sisi variabel atau tipe data. c. Volume, big data menunjukkan volume data yang sangat besar, dihasilkan setiap saat dari berbagai sumber. d. Veracity, big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan analisis yang mendalam. e. Value, big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna. Referensi: Prayogo, C., 2019, Apa Itu Big Data https:www.wartaekonomi.co.idread261904apa-itu-big-data, diakses pada 07 Mei 2021.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.\nSkor 2: Jawaban menyebutkan dan menjelaskan satu ciri Big Data secara singkat. \nSkor 3: Jawaban menyebutkan dan menjelaskan dua ciri Big Data secara singkat.\nSkor 4: Jawaban menyebutkan dan menjelaskan tiga ciri Big Data secara singkat.\nSkor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga ciri Big Data secara singkat.",
+        "score": 5,
+        "reasoning": "Asisten memberikan penjelasan yang komprehensif dan akurat mengenai karakteristik Big Data, termasuk kelima V (Volume, Velocity, Variety, Veracity, dan Value). Responsnya juga menyertakan referensi untuk mendukung informasi yang diberikan. Secara keseluruhan, asisten menunjukkan pemahaman yang kuat tentang topik tersebut dan secara efektif mengkomunikasikan konsep-konsep utama terkait Big Data."
+    },
+    {
+        "no": 3,
+        "question": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
+        "answer": "Ciri big data ada 5 atau yang dikenal dengan 5V, yaitu Variety variasi yang berarti data yang dapat dikumpulkan dapat data terstruktur, tidak terstruktur, dan semistruktur. Kemudian, ada Velocity kecepatan mengacu pada kecepataan data saat dibuat secara real-time, lalu ada Volume yang mana ciri dari big data adalahnya banyak data yang dapat dikumpulkan sangat besar dari berbagai sumber informasi. Selain itu, ada Veracity yang berarti big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data supaya bisa menghasilkan keputusan yang tepat dan Value yang berarti big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.\nSkor 2: Jawaban menyebutkan dan menjelaskan satu ciri Big Data secara singkat. \nSkor 3: Jawaban menyebutkan dan menjelaskan dua ciri Big Data secara singkat.\nSkor 4: Jawaban menyebutkan dan menjelaskan tiga ciri Big Data secara singkat.\nSkor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga ciri Big Data secara singkat.",
+        "score": 3,
+        "reasoning": "Tanggapan asisten menyebutkan dan menjelaskan dua karakteristik Big Data secara singkat (Variety dan Velocity). Namun, tidak memberikan penjelasan yang jelas mengenai tiga karakteristik lainnya (Volume, Veracity, dan Value) atau signifikansinya. Selain itu, tanggapan tersebut tidak memberikan contoh apa pun untuk menggambarkan karakteristik ini. Oleh karena itu, peringkat tersebut lebih rendah dari yang diharapkan."
+    },
+    {
+        "no": 4,
+        "question": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
+        "answer": "Jumlah nya sangat besar Volume. Biasanya ukuran total data dalam terabytes keatas  Pertumbuhan data sangat cepat Velocity sehingga data bertambah dalam jumlah yang sangat banyak dalam kurun waktu relatif singkat.  Bentuk atau format datanya beraneka ragam Variety. Format disini bisa berupa data dalam tabel-tabel relasional database seperti MySQL, file text biasa, File Excel atau bentuk apapun.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.\nSkor 2: Jawaban menyebutkan dan menjelaskan satu ciri Big Data secara singkat. \nSkor 3: Jawaban menyebutkan dan menjelaskan dua ciri Big Data secara singkat.\nSkor 4: Jawaban menyebutkan dan menjelaskan tiga ciri Big Data secara singkat.\nSkor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga ciri Big Data secara singkat.",
+        "score": 3,
+        "reasoning": "Asisten menyebutkan dua karakteristik Big Data (Volume dan Variasi) dan menjelaskannya secara singkat. Namun tidak disebutkan tiga karakteristik lainnya (Velocity, Veracity, dan Value). Oleh karena itu, peringkatnya adalah 3 dari 5."
+    },
+    {
+        "no": 5,
+        "question": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
+        "answer": "Variasi : Variasi Big Data mengacu pada data terstruktur, tidak terstruktur, dan semistruktur yang dikumpulkan dari berbagai sumber. Kecepatan : Kecepatan pada dasarnya mengacu pada kecepatan saat data dibuat secara real time . Dalam prospek yang lebih luas, ini terdiri dari tingkat perubahan, menghubungkan kumpulan data yang masuk dengan kecepatan yang berbeda beda, dan semburan aktivitas. Volume : Big Data menunjukkan volume data yang sangat besar yang dihasilkan setiap hari dari berbagai sumber seperti platform media sosial, proses bisnis, mesin, jaringan, interaksi manusia, dll. Sejumlah besar data disimpan di gudang data. Veracity : Dalam konteks ini setara dengan kualitas. Kita memiliki semua datanya, tapi apakah datanya benar, bisakah ada data yang terlewatkan, Apakah datanya bersih dan akurat, Apakah mereka benar-benar memiliki sesuatu untuk ditawarkan. sehingga veracity ini merupakan kebenaran data yang kita dapatkan. Value : Nilai dari data yang kita dapatkan untuk menjalankan apa yang ingin dijalankan seperti bisnis.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.\nSkor 2: Jawaban menyebutkan dan menjelaskan satu ciri Big Data secara singkat. \nSkor 3: Jawaban menyebutkan dan menjelaskan dua ciri Big Data secara singkat.\nSkor 4: Jawaban menyebutkan dan menjelaskan tiga ciri Big Data secara singkat.\nSkor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga ciri Big Data secara singkat.",
+        "score": 5,
+        "reasoning": "Tanggapan asisten secara akurat menyebutkan dan menjelaskan kelima karakteristik Big Data, yaitu Volume, Velocity, Variety, Veracity, dan Value. Penjelasannya jelas, ringkas, dan mudah dipahami. Asisten juga memberikan contoh untuk setiap karakteristik untuk membantu pengguna lebih memahami apa yang dimaksud dengan Big Data. Secara keseluruhan jawaban memenuhi kriteria skor 5."
+    },
+    {
+        "no": 1,
+        "question": "Apa yang dimaksud dengan ciri velocity?",
+        "answer": "Velocity kecepatan merupakan seberapa cepat data dalam Big Data dapat digenerate baik secara online maupun offline, baik oleh manusia atau mesin yang biasanya diukur dalam satuan bits.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan velocity.\nSkor 3: Jawaban menyebutkan velocity namun penjelasan tidak relevan.\nSkor 5: Jawaban menyebutkan dan menjelaskan velocity dengan relevan.",
+        "score": 3,
+        "reasoning": "Tanggapan asisten menyebutkan kecepatan tetapi penjelasannya tidak relevan dengan kebenaran di lapangan. Kebenaran dasar menjelaskan bahwa kecepatan mengacu pada kecepatan data dihasilkan, diproses, dan dianalisis dalam sistem Big Data, sedangkan respons asisten hanya menyebutkan bahwa kecepatan diukur dalam bit."
+    },
+    {
+        "no": 2,
+        "question": "Apa yang dimaksud dengan ciri velocity?",
+        "answer": "Velocity berarti mengacu pada kecepatan saat data dibuat secara real-time, tingkat perubahan, memiliki karakteristik cepat berubah baik dari sisi variabel ataupun tipe data Prayogo, 2019. Referensi: Prayogo, C., 2019, Apa Itu Big Data https:www.wartaekonomi.co.idread261904apa-itu-big-data, diakses pada 07 Mei 2021.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan velocity.\nSkor 3: Jawaban menyebutkan velocity namun penjelasan tidak relevan.\nSkor 5: Jawaban menyebutkan dan menjelaskan velocity dengan relevan.",
+        "score": 5,
+        "reasoning": "Asisten memberikan penjelasan yang jelas dan akurat mengenai karakteristik kecepatan dalam sistem Big Data. Mereka menyebutkan bahwa hal ini mengacu pada kecepatan data dihasilkan, diproses, dan dianalisis, serta menjelaskan bagaimana pertumbuhan data yang cepat dapat memberikan tekanan pada kemampuan sistem untuk menangani dan memproses data secara efisien. Asisten juga memberikan referensi untuk mendukung informasi mereka, sehingga jawaban mereka lebih kredibel. Secara keseluruhan, asisten ini secara efektif menjawab pertanyaan pengguna dan memberikan wawasan berharga tentang pentingnya mempertimbangkan kecepatan saat merancang dan mengelola sistem Big Data."
+    },
+    {
+        "no": 3,
+        "question": "Apa yang dimaksud dengan ciri velocity?",
+        "answer": "Ciri velocity mengacu pada kecepatan saat membuata data dalam real-time. Hal ini berarti big data memiliki karakteristik cepat sekali berubah baik dari sisi variabel maupun tipe data. Dengan karakteristik ini, perlu sentuhan khusus dalam mengolah big data.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan velocity.\nSkor 3: Jawaban menyebutkan velocity namun penjelasan tidak relevan.\nSkor 5: Jawaban menyebutkan dan menjelaskan velocity dengan relevan.",
+        "score": 3,
+        "reasoning": "Tanggapan asisten tersebut menyebutkan istilah \"kecepatan\" tetapi tidak memberikan penjelasan yang jelas tentang apa yang dimaksud dalam konteks sistem Big Data. Penjelasan yang diberikan juga tidak relevan karena tidak berkaitan dengan karakteristik kecepatan dalam sistem Big Data, yaitu kecepatan pembuatan, pemrosesan, dan analisis data."
+    },
+    {
+        "no": 4,
+        "question": "Apa yang dimaksud dengan ciri velocity?",
+        "answer": "Velocity berarti big data memiliki karakteristik cepat sekali berubah baik dari sisi variabel maupun tipe data. Dengan karakteristik ini, perlu sentuhan khusus dalam mengolah big data.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan velocity.\nSkor 3: Jawaban menyebutkan velocity namun penjelasan tidak relevan.\nSkor 5: Jawaban menyebutkan dan menjelaskan velocity dengan relevan.",
+        "score": 3,
+        "reasoning": "Tanggapan asisten menyebutkan kecepatan, namun penjelasannya tidak relevan dengan definisi kebenaran dasar tentang kecepatan dalam sistem Big Data. Responsnya tidak memberikan informasi yang relevan tentang kecepatan data dihasilkan, diproses, dan dianalisis dalam sistem Big Data, yang merupakan fokus utama dari karakteristik kecepatan."
+    },
+    {
+        "no": 5,
+        "question": "Apa yang dimaksud dengan ciri velocity?",
+        "answer": "Kecepatan pada dasarnya mengacu pada kecepatan saat data dibuat secara real time . Dalam prospek yang lebih luas, ini terdiri dari tingkat perubahan, menghubungkan kumpulan data yang masuk dengan kecepatan yang berbeda beda, dan semburan aktivitas.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan velocity.\nSkor 3: Jawaban menyebutkan velocity namun penjelasan tidak relevan.\nSkor 5: Jawaban menyebutkan dan menjelaskan velocity dengan relevan.",
+        "score": 3,
+        "reasoning": "Tanggapan asisten menyebutkan kecepatan tetapi penjelasannya tidak relevan dengan kebenaran di lapangan. Kebenaran dasar menjelaskan bahwa kecepatan mengacu pada kecepatan data dihasilkan, diproses, dan dianalisis dalam sistem Big Data, sedangkan respons asisten berbicara tentang kecepatan pembuatan data real-time tanpa koneksi apa pun ke konteks sistem Big Data."
+    },
+    {
+        "no": 1,
+        "question": "Apa perbedaan database relational dan data warehouse?",
+        "answer": "1. Database Relational Model Database Relational menyajikan data dalam tabel dua dimensi, seperti spreadsheet hanya saja tidak dipresentasikan dalam tabel seperti spreadsheet tetapi menggunakan kombinasi atau joining relational tabel untuk menghasilkan view atau hasil tampilan. 2. Data Warehouse Model Data Warehouse, juga dikenal sebagai gudang data perusahaan adalah sistem yang digunakan untuk pelaporan dan analisis data dan dianggap sebagai komponen inti dari intelijen bisnis.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan perbedaan antara database relasional dan data warehouse.\nSkor 3: Jawaban menyebutkan satu perbedaan antara database relasional dan data warehouse dengan penjelasan yang relevan.\nSkor 5: Jawaban menyebutkan dua atau lebih perbedaan antara database relasional dan data warehouse dengan penjelasan yang benar dan singkat.",
+        "score": 3,
+        "reasoning": "Tanggapan asisten memberikan penjelasan singkat tentang perbedaan antara database relasional dan gudang data, namun hanya menyebutkan satu perbedaan - bahwa gudang data digunakan untuk pelaporan bisnis dan analisis data sedangkan database relasional digunakan untuk transaksi harian dan data operasional. Penjelasannya akurat, namun tidak memberikan informasi tambahan apa pun tentang perbedaan skema atau kemampuan kueri antara kedua sistem. Oleh karena itu, respons yang diberikan dapat ditingkatkan dengan memasukkan lebih banyak rincian mengenai perbedaan-perbedaan yang disebutkan dalam kebenaran dasar."
+    },
+    {
+        "no": 2,
+        "question": "Apa perbedaan database relational dan data warehouse?",
+        "answer": "FITUR OLTP DATA RELATIONAL OLAP DATA WAREHOUSE Karakteristik Pemrosesan operasional Pemrosesan informasional Orientasi Transaksi Analisa Fungsi Operasional sehari-hari Kebutuhan informasi jangka panjang, pendukung keputusan Pengguna Kasir, pramuniaga, professional database Knowledge workers, manager, analis data View Mendetail, relational Ter-sumarisasi, terkonsolidasi Akses Membacamenulis Pada umumnya membaca Unit kerja Pendek, transaksi sederhana Query yang kompleks Desain DB Berorientasi aplikasi Historis, berorientasi subjek Fokus Data masuk Informasi keluar Referensi: Rifzan, 2019, Database vs Datawarehouse Perbedaan dan Fungsinya, https:www.robicomp.comdatabase-vs-datwarehouse-perbedaanny-dan-fungsinya.html, diakses pada 07 Mei 2021.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan perbedaan antara database relasional dan data warehouse.\nSkor 3: Jawaban menyebutkan satu perbedaan antara database relasional dan data warehouse dengan penjelasan yang relevan.\nSkor 5: Jawaban menyebutkan dua atau lebih perbedaan antara database relasional dan data warehouse dengan penjelasan yang benar dan singkat.",
+        "score": 3,
+        "reasoning": "Tanggapan asisten memberikan gambaran singkat tentang perbedaan antara database relasional dan gudang data dalam hal fokusnya masing-masing pada pemrosesan operasional dan informasi. Namun tidak disebutkan ciri atau fungsi spesifik apa yang membedakan kedua jenis database tersebut. Oleh karena itu, saya akan menilai tanggapan ini sebagai 3 dari 5 untuk keakuratannya."
+    },
+    {
+        "no": 3,
+        "question": "Apa perbedaan database relational dan data warehouse?",
+        "answer": "Database relational:  Database digunakan untuk Transaksional Pengolahan Online  OLTP  tetapi dapat digunakan untuk keperluan lain seperti Data Warehousing  Dalam database tabel dan bergabung sangat kompleks karena mereka dinormalisasi untuk RDMS . Hal ini mengurangi data yang berlebihan dan menghemat ruang penyimpanan .  Teknik pemodelan relasional digunakan untuk desain database RDMS  Database dioptimalkan untuk menulis operasi  Dalam database, kinerja yang rendah untuk query analisis Data Warehouse:  Sebuah warehouse digunakan untuk Online Analytical Processing  OLAP  . Ini membaca data historis untuk pengguna untuk keputusan bisnis .  Dalam data warehouse, tabel dan gabungan sederhana karena mereka dinormalisasi . Hal ini dilakukan untuk mengurangi waktu respon untuk permintaan analitis .  Teknik Pemodelan Data digunakan untuk desain Data Warehouse.  Data warehouse dioptimalkan untuk operasi membaca .  data warehouse, ada kinerja tinggi untuk permintaan analitis.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan perbedaan antara database relasional dan data warehouse.\nSkor 3: Jawaban menyebutkan satu perbedaan antara database relasional dan data warehouse dengan penjelasan yang relevan.\nSkor 5: Jawaban menyebutkan dua atau lebih perbedaan antara database relasional dan data warehouse dengan penjelasan yang benar dan singkat.",
+        "score": 3,
+        "reasoning": "Tanggapannya menyebutkan satu perbedaan antara database relasional dan gudang data dengan penjelasan yang relevan. Namun tidak disebutkan perbedaan-perbedaan lain yang disebutkan dalam kebenaran dasar."
+    },
+    {
+        "no": 4,
+        "question": "Apa perbedaan database relational dan data warehouse?",
+        "answer": "Data warehouse adalah skup penyimpanan dan pengolahan secara luas dari berbagai sumber data, tidak hanya relational database saja yang terintegrasi dan mudah untuk ditampilkan informasi secara drilldown atau rollup. Secara umum, Proses datawarehouse adalah: OLTPETLdata warehousedata martanalisisreport Database relational yang umum dipakai adalah area OLTP online transaction process dengan ciri-cirinya: 1. relational database 2. Normalized database 3. Changeable 4. Realtime 5. large database 6. Can be Various Data Source  flat file, DBMS etc Sedangkan Data warehouse adalah stage kedua, dimana data tidak lagi diquery dalam jumlah yang banyak dan ternormalisasi, namun data yang sudah dilakukan agregasi sesuai kebutuhan reportanalisis dan sudah di denormalisasi karena adanya pertimbangan kecepatan query. Jika data harus dilakukan qiery dengan melakukan proses JOIN yang banyak seperti dalam database OLTP maka proses akan sangat berat. Lebih-lebih lagi data OLTP yang sangat besar. Kemudian, data warehouse merupakan agegrasi dari berbagai macam sumber data data source yang berbeda.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan perbedaan antara database relasional dan data warehouse.\nSkor 3: Jawaban menyebutkan satu perbedaan antara database relasional dan data warehouse dengan penjelasan yang relevan.\nSkor 5: Jawaban menyebutkan dua atau lebih perbedaan antara database relasional dan data warehouse dengan penjelasan yang benar dan singkat.",
+        "score": 3,
+        "reasoning": "Tanggapan yang diberikan oleh asisten AI menyebutkan satu perbedaan antara database relasional dan gudang data, yaitu gudang data dirancang untuk analisis dan pelaporan data historis dari berbagai sumber sedangkan database relasional dioptimalkan untuk kecepatan dan efisiensi dalam pemrosesan skala kecil hingga menengah. transaksi data secara real-time. Namun penjelasan yang diberikan tidak akurat karena tidak menyebutkan bahwa data warehouse sering kali berasal dari berbagai sumber dan terintegrasi untuk tujuan analisis dan pelaporan, sedangkan database relasional memiliki skema terstruktur dengan tabel, baris, dan kolom yang memerlukan skema yang telah ditentukan sebelumnya."
+    },
+    {
+        "no": 5,
+        "question": "Apa perbedaan database relational dan data warehouse?",
+        "answer": "Database relational merupakan tahap pertama, biasanya menggunakan OLTP yang memiliki ciri-ciri : 1. relational database 2. Normalized database 3. Changeable 4. Realtime 5. large database 6. Can be Various Data Source  flat file, DBMS etc sedangkan Data warehouse adalah stage kedua, dimana data tidak lagi diquery dalam jumlah yang banyak dan ternormalisasi, namun data yang sudah dilakukan agregasi sesuai kebutuhan reportanalisis dan sudah di denormalisasi.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan perbedaan antara database relasional dan data warehouse.\nSkor 3: Jawaban menyebutkan satu perbedaan antara database relasional dan data warehouse dengan penjelasan yang relevan.\nSkor 5: Jawaban menyebutkan dua atau lebih perbedaan antara database relasional dan data warehouse dengan penjelasan yang benar dan singkat.",
+        "score": 3,
+        "reasoning": "Jawaban asisten memberikan beberapa informasi tentang database relasional dan gudang data, namun tidak menyebutkan perbedaan utama di antara keduanya. Asisten menyebutkan bahwa database relasional digunakan untuk OLTP dan dapat menangani transaksi harian, sedangkan gudang data digunakan untuk OLAP dan dioptimalkan untuk menanyakan dan menganalisis data historis. Namun, asisten tersebut tidak menjelaskan perbedaan tersebut secara rinci atau memberikan contoh apa pun untuk mendukung klaim mereka. Oleh karena itu, jawaban asisten dapat ditingkatkan dengan memberikan penjelasan yang lebih akurat dan ringkas mengenai perbedaan utama antara database relasional dan gudang data."
+    },
+    {
+        "no": 1,
+        "question": "Apa tantangan-tantangan yang ada ketika mengimplementasikan Big Data?",
+        "answer": "Tantangan mengimplementasikan Big Data adalah pada bagian menproses dan menganalisis data yang sangat besar secara cepat dan tepat. Selain itu bisa saja terjadi kebocoran data dalam Big Data jika tidak ada sistem perlindungan yang kuat. Membutuhkan tempatwadah yang besar untuk menyimpan Big Data.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan tantangan dalam mengimplementasikan Big Data.\nSkor 3: Jawaban menyebutkan satu tantangan dalam mengimplementasikan big data.\nSkor 5: Jawaban menyebutkan lebih dari satu tantangan dalam mengimplementasikan big data.",
+        "score": 3,
+        "reasoning": "Penjelasan: Tanggapan asisten menyebutkan dua tantangan dalam penerapan Big Data, yaitu pemrosesan dan analisis data, serta keamanan dan privasi data. Namun, hal ini tidak menyebutkan tantangan penting lainnya seperti pengelolaan dan penyimpanan data, kualitas dan kebersihan data, integrasi data, kekurangan keterampilan, serta biaya infrastruktur dan operasional. Oleh karena itu, respons yang diberikan bisa lebih komprehensif dan akurat."
+    },
+    {
+        "no": 2,
+        "question": "Apa tantangan-tantangan yang ada ketika mengimplementasikan Big Data?",
+        "answer": "Tantangan implementasi big data antara lain: a. Data Diperlukan adanya sinkronasi dari sumber data yang berbeda, kualitas data, keamanan dan privasi data. b. Teknologi Berkaitan dengan infrastruktur dan tools dalam pengoperasian big data, seperti teknik komputasi dan analitik, serta media penyimpanan data. c. Proses Diperlukan proses untuk mengadopsi teknologi big data sehingga dibutuhkan perubahan budaya organisasi. d. SDM Dibutuhkan SDM dengan keahlian analitik dan kreativitas yaitu kemampuanketerampilan untuk menentukan metode baru guna mengumpulkan, menginterpretasi, menganalisis data, dan keahlian dalam bidang pemrograman komputer. Referensi: Islah, K., 2018, Peluang dan Tantangan Pemanfaatan Teknologi Big Data untuk Mengintegrasikan Pelayanan Publik Pemerintah. Jurnal Reformasi Administrasi, Vol. 5, No. 1, September 2018, pp. 130-138.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan tantangan dalam mengimplementasikan Big Data.\nSkor 3: Jawaban menyebutkan satu tantangan dalam mengimplementasikan big data.\nSkor 5: Jawaban menyebutkan lebih dari satu tantangan dalam mengimplementasikan big data.",
+        "score": 7,
+        "reasoning": "Tanggapan asisten secara akurat menyebutkan tujuh tantangan yang ada saat mengimplementasikan Big Data, yang sejalan dengan kebenaran dasar yang diberikan. Responsnya juga terstruktur dengan baik dan memberikan penjelasan yang jelas untuk setiap tantangan yang disebutkan. Namun, hal ini dapat ditingkatkan dengan memberikan contoh atau studi kasus yang lebih spesifik untuk menggambarkan setiap tantangan. Secara keseluruhan, respon asisten berkualitas tinggi dan memenuhi kriteria yang ditetapkan."
+    },
+    {
+        "no": 3,
+        "question": "Apa tantangan-tantangan yang ada ketika mengimplementasikan Big Data?",
+        "answer": "Perlu sinkronisasi sumber data yang berbeda karena rangkaian data yang besar dan beragam sehingga akan menjadi tantangan untuk menggabungkannya di suatu platform  Kekurangan tenaga professional yang memahami analisis big data  Keamanan dan privasi data, alat-alat big data yang digunakan untuk analisis dan penyimpanan menggunakan sumber data yang berbeda akhirnya mengarah pada risiko tinggi exposure dan membuatnya rentan  kecepatan juga menjadi tantangan. Data yang sampai terus-menerus dalam bentuk aliran data. Oleh karena itu, sulit untuk mendapatkan informasi berguna secara real time dan menentukan mana data yang harus disimpan, mana yang harus dibuang.  kebenaran data. Banyak data berubah setiap saat, sehingga kebenaran data menjadi tidak pasti.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan tantangan dalam mengimplementasikan Big Data.\nSkor 3: Jawaban menyebutkan satu tantangan dalam mengimplementasikan big data.\nSkor 5: Jawaban menyebutkan lebih dari satu tantangan dalam mengimplementasikan big data.",
+        "score": 7,
+        "reasoning": "Tanggapan asisten tersebut secara akurat menyebutkan tujuh tantangan dalam penerapan Big Data, termasuk pengelolaan dan penyimpanan data, pemrosesan dan analisis data, kualitas dan kebersihan data, keamanan dan privasi data, integrasi data, kekurangan keterampilan, infrastruktur dan biaya operasional. Respons ini juga memberikan contoh spesifik tentang bagaimana setiap tantangan dapat terwujud, seperti perlunya sinkronisasi berbagai jenis sumber data dan ketidakpastian keakuratan data karena seringnya perubahan. Secara keseluruhan, respons asisten bersifat komprehensif dan informatif, memberikan gambaran yang baik tentang tantangan yang mungkin dihadapi organisasi saat menerapkan Big Data."
+    },
+    {
+        "no": 4,
+        "question": "Apa tantangan-tantangan yang ada ketika mengimplementasikan Big Data?",
+        "answer": "1. TANTANGAN YANG PERTAMA ADALAH BERURUSAN DENGAN PERTUMBUHAN DATA. JUMLAH INFORMASI YANG TERSIMPAN DI DALAM DUNIA TI INI MENINGKAT DUA KALI LIPAT DALAM DUA TAHUN SEKALI. 2. Varietas Big Data ini akan mengarah kepada tantangan di dalam integrasi data. Big Data sumber datanya berbeda-beda. Ada yang berasal dari aplikasi perusahaan, aliran media sosial, sistem email, dokumen buatan karyawan dan sebagainya. Kesulitannya pada harus bisa menggabungkan semua data dan melakukan rekonsiliasi sehingga mampu membuat laporan data yang sulit. 3. Wawasan pada waktu yang tepat 4. Tantangan dalam implementasi teknologi Big Data adalah kekurangan tenaga profesional. Dengan peningkatan data eksponensial, permintaan tenaga ahli analisis Big Data ini akan semakin besar. Penting juga bagi perusahaan agar bisa mempekerjakan ahli data yang terampil dan juga memiliki kemampuan analisis data yang bagus, serta memiliki kedisiplinan tinggi. 5. Fragmentasi Data Dalam perusahaan data terfragmentasi. setiap departemen atau bagian atau unit ini menyimpan data tersendiri. Tidak ada departemen khusus yang mana menangani manajemen seluruh data dan menjamin kebenaran, konsistensi maupun pembaruan. Jenis data inilah yang akan menghalangi bisnis Anda memahami kerumitan persoalan yang ada.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan tantangan dalam mengimplementasikan Big Data.\nSkor 3: Jawaban menyebutkan satu tantangan dalam mengimplementasikan big data.\nSkor 5: Jawaban menyebutkan lebih dari satu tantangan dalam mengimplementasikan big data.",
+        "score": 7,
+        "reasoning": "Asisten tersebut memberikan jawaban komprehensif yang mencakup enam dari tujuh tantangan yang disebutkan dalam kebenaran dasar. Satu-satunya tantangan yang tidak disebutkan adalah kekurangan keterampilan, yang disebutkan di urutan ketujuh. Asisten juga memberikan penjelasan rinci untuk setiap tantangan dan memberikan contoh untuk mendukung poin mereka. Secara keseluruhan, tanggapannya akurat dan informatif."
+    },
+    {
+        "no": 5,
+        "question": "Apa tantangan-tantangan yang ada ketika mengimplementasikan Big Data?",
+        "answer": "1. Kurangnya pemahaman mengenai Big Data 2. Besarnya data untuk disimpan dengan benar merupakan tantangan 3. Kebingungan memilih tool yang terbaik untuk menganalisis Big Data dan penyimpanannya 4. Kurangnya data profesional 5. Pengamanan data 6. Menyatukan data dari beragam sumber",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan tantangan dalam mengimplementasikan Big Data.\nSkor 3: Jawaban menyebutkan satu tantangan dalam mengimplementasikan big data.\nSkor 5: Jawaban menyebutkan lebih dari satu tantangan dalam mengimplementasikan big data.",
+        "score": 7,
+        "reasoning": "Asisten tersebut memberikan daftar lengkap tantangan yang ada ketika mengimplementasikan Big Data, yang mencakup semua kategori kebenaran utama kecuali kekurangan keterampilan dan infrastruktur serta biaya operasional. Responsnya secara akurat menyebutkan enam dari tujuh kategori kebenaran dasar, dan ini merupakan upaya yang baik. Namun, akan lebih baik jika asisten juga menyebutkan kekurangan keterampilan serta infrastruktur dan biaya operasional untuk memberikan gambaran yang lebih lengkap mengenai tantangan yang ada dalam penerapan Big Data. Secara keseluruhan, tanggapan yang diberikan cukup memuaskan namun dapat ditingkatkan dengan memasukkan semua kategori kebenaran dasar."
+    }
+]

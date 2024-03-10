@@ -1,0 +1,82 @@
+[
+    {
+        "no": 1,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "1. Veracity Kebenaran Merupakan tingkat kebenaran Big Data, apakah data yang dikandung benar-benar bersih dan tepat atau tidak. Kebenaran data ekuivalen dengan kualitas data tersebut. 2. Value Nilai Merupakan tingkat nilai Big Data, apakah data yang dikandung benar-benar memiliki nilai atau tidak. Banyak data pada Big Data yang merupakan data bernilai tinggi dan tentu saja harus memiliki prosedur khusus untuk dapat mengaksesnya.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 4,
+        "reasoning": "Rating: [[4]]\n\nThe response provided by the AI assistant is accurate and relevant to the question asked, but it lacks a clear explanation for each concept. The assistant mentions that Veracity refers to the accuracy and reliability of Big Data, while Value refers to the worth or significance of Big Data. However, there is no further elaboration on how these concepts are related to Big Data or why they are important in analyzing it. Therefore, the response could have been improved by providing a more detailed explanation for each concept and their relevance to Big Data analysis."
+    },
+    {
+        "no": 2,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "Dua ciri yang lain yaitu: a. Veracity, big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan analisis yang mendalam. b. Value, big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna. Referensi: Prayogo, C., 2019, Apa Itu Big Data https:www.wartaekonomi.co.idread261904apa-itu-big-data, diakses pada 07 Mei 2021.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 3,
+        "reasoning": "Rating: [[3]]\n\nThe assistant's response provides a brief explanation of the two concepts, but it does not provide any relevant information about their characteristics. The assistant only mentions that big data has high value and requires deep analysis for its veracity. However, there is no further elaboration on what these concepts mean or how they relate to each other. Therefore, the response falls short of meeting the criteria for a rating of 4 or 5."
+    },
+    {
+        "no": 3,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "Veracity berarti big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar bisa menghasilkan keputusan yang tepat. Veracity mengarah pada seberapa akurat dan dipercaya suatu data  Value berarti big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna.atau dapat juga dikatakan seberapa bernilainya atau bermaknanya suatu data",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 4,
+        "reasoning": "Rating: [[4]]\n\nThe assistant has provided a brief explanation of the concepts of Veracity and Value in relation to Big Data. However, the response is not complete as it does not provide any further elaboration on these concepts or their significance in analyzing Big Data. Additionally, the response only mentions the importance of accuracy and value without providing any specific examples or use cases for each concept. Therefore, the assistant's answer could be improved by providing more detailed information and examples to support their explanation."
+    },
+    {
+        "no": 4,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "Veracity berarti big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar bisa menghasilkan keputusan yang tepat. Value berarti big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 3,
+        "reasoning": "Rating: [[3]]\n\nThe assistant's response provides a brief explanation of the concepts of Veracity and Value in Big Data, but it does not provide any further elaboration or examples to support their understanding. The response also does not mention the importance of filtering data based on its value or how to determine the accuracy of the data. Therefore, the assistant's response is lacking in detail and relevance to the user's question."
+    },
+    {
+        "no": 5,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "Veracity : Dalam konteks ini setara dengan kualitas. Kita memiliki semua datanya, tapi apakah datanya benar, bisakah ada data yang terlewatkan, Apakah datanya bersih dan akurat, Apakah mereka benar-benar memiliki sesuatu untuk ditawarkan. sehingga veracity ini merupakan kebenaran data yang kita dapatkan. Value : Nilai dari data yang kita dapatkan untuk menjalankan apa yang ingin dijalankan seperti bisnis.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 3,
+        "reasoning": "Rating: [[3]]\n\nExplanation: The assistant's response provides a brief explanation of the concepts of Veracity and Value in Big Data, but it lacks relevance to the ground truth provided. The assistant mentions that Veracity is related to the quality of data, while Value is related to the usefulness of data for a particular purpose. However, the assistant does not provide any further elaboration on these concepts or how they relate to each other in Big Data analysis."
+    },
+    {
+        "no": 6,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "1. Value bernilai dan bermakna: big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat. 2. Veracity akurat: big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar bisa menghasilkan keputusan yang tepat.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 3,
+        "reasoning": "Rating: [[3]]\n\nThe assistant's response provides a brief explanation of the concepts of 'Value' and 'Veracity' in relation to Big Data, but it is not comprehensive enough. The response only mentions that big data has high value when processed correctly and that veracity is important for accurate analysis of big data. However, it does not provide any further details or examples to support these statements. Additionally, the response does not address the relevance of these concepts in Big Data analysis. Therefore, the assistant's response falls under Skor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan."
+    },
+    {
+        "no": 7,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "2V selain Variety, Velocity, dan Volume adalah V dan Value. 1. Veracity. Big Data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar dapat menghasilkan keputusan yang tepat. Veracity mengarah kepada seberapa akurat dan dapat dipercayanya suatu data. 2. Value, memiliki arti bahwa Big Data memiliki nilai yang sangat besar apabila diolah dengan cara yang tepat atau dapat juga diartikan sebagai seberapa bernilainya suatu data.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 4,
+        "reasoning": "Rating: [[4]]\n\nThe assistant has provided a good explanation for the concepts of Veracity and Value in Big Data. However, the response could have been improved by providing more detail on each concept and how they relate to Big Data. Additionally, the assistant could have provided examples or case studies to illustrate these concepts in action. Overall, the response is accurate and relevant, but could benefit from further elaboration."
+    },
+    {
+        "no": 8,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "1. VeracityValidity: kualitas data yang akurat, benar, dan terpercaya sehingga membantu proses pengambilan keputusan yang tepat. 2. Value: kemampuan mengubah data menjadi sesuatu yang bernilai, berdampak, atau berguna",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 3,
+        "reasoning": "Rating: [[3]]\n\nThe assistant's response provides a brief explanation of the concepts of Veracity and Value in Big Data. However, it does not provide any further elaboration on each concept or its relevance to the other. The response also uses the term \"Validity\" instead of \"Veracity,\" which may cause confusion for the user."
+    },
+    {
+        "no": 9,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "Volume yaitu jumlah big data yang terus bertambah dan terus diproduksi setiap hari yang tersimpan dalam format digital internet. Velocity yaitu kecepatan pertumbuhan atau pertambahan big data yang tidak bisa dikontrol sehingga sulit mengolah data tersebut dengan teknologi konvensional. Variety yaitu macam macam data yang tersedia dalam big data.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 1,
+        "reasoning": "Rating: [[1]]\n\nExplanation: The assistant's answer does not mention the concepts of 'Veracity' and 'Value'. It only provides a brief explanation of the characteristics of Big Data, which are Volume, Velocity, and Variety. Therefore, this response falls under Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'."
+    },
+    {
+        "no": 10,
+        "question": "Sebutkan dan jelaskan mengenai karakteristik 'Veracity' dan 'Value' pada Big Data!",
+        "answer": "Visualisasi sangat penting dalam menghadirkan data yang dapat dimengerti secara lebih mudah. Value, dimana data pada akhirnya harus menciptakan suatu nilai bagi perusahaan atau organisasi.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value'.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan namun hanya satu yang relevan. \nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 3,
+        "reasoning": "Rating: [[3]]\n\nThe assistant's response provides a brief explanation of the importance of visualization in understanding data and mentions the concept of value, which refers to the significance or worth of data for an organization. However, it does not provide any information about the concept of veracity, which is also important when analyzing big data. Additionally, the explanation of value is limited and does not provide any context on how data can be valued or what factors contribute to its value. Therefore, the response falls short of meeting the criteria for a rating of 4 or 5."
+    }
+]

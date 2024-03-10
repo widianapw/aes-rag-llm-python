@@ -1,0 +1,65 @@
+[
+  {
+    "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+    "column": "Response 1",
+    "subject": "uas",
+    "rubric": "Skor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+    "key": "response-1"
+  },
+  {
+    "question": "Menurut Saudara, apakah pekerjaan Costumer Service dan pekerjaan yang sifat layanannya berulang, suatu saat akan dapat digantikan oleh mesin? Berikan alasan yang didasarkan pada konteks Transformasi Digital.",
+    "column": "Response 2",
+    "subject": "uas",
+    "rubric": "Skor 1: Jawaban tidak membahas kemungkinan pekerjaan Customer Service digantikan oleh mesin dan tidak menyertakan alasan apa pun.\nSkor 2: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin, tetapi tidak menyertakan alasan yang mendukung pendapat tersebut.\nSkor 3: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin dan memberikan alasan yang umum, namun tidak secara langsung menghubungkan dengan konteks Transformasi Digital.\nSkor 4: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin dan memberikan alasan yang relevan, menunjukkan pemahaman tentang Transformasi Digital, tetapi tidak memberikan contoh atau aplikasi nyata.\nSkor 5: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin dan memberikan alasan yang relevan, menunjukkan pemahaman tentang Transformasi Digital dan memberikan contoh atau aplikasi nyata.",
+    "key": "response-2"
+  },
+  {
+    "question": "Sebutkan 5 (lima) perbedaan utama dari sumber data tradisional dan sumber big data!",
+    "column": "Response 3",
+    "subject": "uas",
+    "rubric": "Skor 1: Jawaban tidak menyertakan perbedaan antara sumber data tradisional dan sumber big data.\nSkor 2: Jawaban menyertakan satu perbedaan antara sumber data tradisional dan sumber big data.\nSkor 3: Jawaban menyertakan dua perbedaan antara sumber data tradisional dan sumber big data.\nSkor 4: Jawaban menyertakan tiga perbedaan antara sumber data tradisional dan sumber big data.\nSkor 5: Jawaban menyertakan lebih dari tiga perbedaan antara sumber data tradisional dan sumber big data.",
+    "key": "response-3"
+  },
+  {
+    "question": "Sebutkan 3 (tiga) perbedaan utama bentuk data yang terstruktur dan tidak terstruktur!",
+    "column": "Response 4",
+    "subject": "uas",
+    "rubric": "Skor 1: Jawaban tidak menyertakan perbedaan antara data terstruktur dan data tidak terstruktur.\nSkor 2: Jawaban memberikan perbedaan antara bentuk data yang terstruktur dan tidak terstruktur namun tidak relevan.\nSkor 3: Jawaban memberikan satu perbedaan antara bentuk data yang terstruktur dan tidak terstruktur dengan benar.\nSkor 4: Jawaban memberikan dua perbedaan antara bentuk data yang terstruktur dan tidak terstruktur dengan benar.\nSkor 5: Jawaban memberikan tiga perbedaan antara bentuk data yang terstruktur dan tidak terstruktur dengan benar.",
+    "key": "response-4"
+  },
+  {
+    "question": "Jelaskan mengenai Sensor dalam Internet of Things (IoT) dan sebutkan 3 (tiga) contohnya!",
+    "column": "Response 5",
+    "subject": "uas",
+    "rubric": "Skor 1: Jawaban tidak menjelaskan sensor dalam Internet of Things (IoT) dan tidak menyebutkan contohnya.\nSkor 2: Jawaban menjelaskan sensor dalam Internet of Things (IoT) namun tidak menyebutkan contohnya.\nSkor 3: Jawaban menjelaskan sensor dalam Internet of Things (IoT) dan menyebutkan satu contohnya.\nSkor 4: Jawaban menjelaskan sensor dalam Internet of Things (IoT) dan menyebutkan dua contohnya.\nSkor 5: Jawaban menjelaskan sensor dalam Internet of Things (IoT) dan menyebutkan tiga contohnya",
+    "key": "response-5"
+  },
+  {
+    "question": "Jelaskan mengenai Actuator dalam Internet of Things (IoT) dan sebutkan 3 (tiga) contohnya!",
+    "column": "Response 6",
+    "subject": "uas",
+    "rubric": "Skor 1: Jawaban tidak menjelaskan actuator dalam IoT dan tidak menyebutkan contohnya.\nSkor 2: Jawaban menjelaskan actuator dalam IoT namun tidak menyebutkan contohnya.\nSkor 3: Jawaban menjelaskan actuator dalam IoT dan menyebutkan satu contohnya.\nSkor 4: Jawaban menjelaskan actuator dalam IoT dan menyebutkan dua contohnya.\nSkor 5: Jawaban menjelaskan actuator dalam IoT dan menyebutkan tiga contohnya.",
+    "key": "response-6"
+  },
+  {
+    "question": "Jelaskan apa yang Saudara ketahui mengenai prediksi bahwa pekerjaan-pekerjaan yang ada pada saat ini akan berkurang di masa depan dan akan muncul jenis pekerjaan baru!. Sikap dan strategi kita menghadapi hal tersebut sebaiknya seperti apa?",
+    "column": "Response 7",
+    "subject": "uas",
+    "rubric": "Skor 1: Jawaban tidak memberikan penjelasan mengenai prediksi pekerjaan yang akan berkurang dimasa depan dan tidak memberikan opini tentang strategi menghadapinya.\nSkor 3: Jawaban memberikan penjelasan sangat singkat mengenai prediksi pekerjaan yang akan berkurang di masa depan namun tidak memberikan opini tentang strategi menghadapinya.\nSkor 5: Jawaban memberikan penjelasan sangat singkat mengenai prediksi pekerjaan yang akan berkurang di masa depan namun dan memberikan opini tentang strategi menghadapinya.",
+    "key": "response-7"
+  },
+  {
+    "question": "Berikan contoh implementasi IoT pada Bidang Lingkungan dan Bidang Pertanian atau Perikanan atau Peternakan, berikan juga penjelasan yang memadai dari masing-masing contoh di atas.",
+    "column": "Response 8",
+    "subject": "uas",
+    "rubric": "Skor 1: Jawaban tidak memberikan contoh implementasi IoT pada bidang lingkungan, pertanian, perikanan, atau peternakan.\nSkor 2: Jawaban memberikan satu contoh implementasi IoT namun tanpa penjelasan cara kerja dan manfaat implementasi tersebut.\nSkor 3: Jawaban memberikan satu contoh implementasi IoT pada salah satu bidang dengan penjelasan yang mencakup cara kerja implementasi tersebut namun tidak menjelaskan manfaat implementasi tersebut.\nSkor 4: Jawaban memberikan satu contoh implementasi IoT pada salah satu bidang dengan penjelasan yang mencakup cara kerja dan manfaat implementasi tersebut.\nSkor 5: Jawaban memberikan lebih dari satu contoh implementasi IoT pada lebih dari satu bidang (lingkungan, pertanian, perikanan, atau peternakan) dengan penjelasan yang mencakup cara kerja dan manfaat implementasi tersebut.",
+    "key": "response-8"
+  },
+  {
+    "question": "Sebutkan 5 (lima) kriteria suatu data disebut big data? dan jelaskan secara singkat dan memadai.",
+    "column": "Response 9",
+    "subject": "uas",
+    "rubric": "Skor 1: Jawaban tidak ada menyebut salah satu dari lima kriteria big data.\nSkor 2: Jawaban hanya menyebutkan dan menjelaskan satu kriteria dari big data secara singkat.\nSkor 3: Jawaban menyebutkan dan menjelaskan dua kriteria dari big data secara singkat.\nSkor 4: Jawaban menyebutkan dan menjelaskan tiga kriteria dari big data secara singkat.\nSkor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga kriteria dari big data secara singkat.",
+    "key": "response-9"
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "answer": "Dua V tambahan yang dijelaskan dalam modul adalah: 1. Veracity (Kebenaran): Mengacu pada kualitas atau keakuratan data. Sistem Big Data sering kali menangani data dari berbagai sumber, yang kualitas dan akurasinya bervariasi. Memastikan kebenaran data sangat penting untuk membuat keputusan yang akurat berdasarkan data tersebut. 2. Nilai: Mengacu pada kegunaan atau relevansi data. Sistem Big Data harus mampu mengubah data mentah menjadi wawasan yang dapat ditindaklanjuti dan memberikan nilai bagi organisasi. Kemampuan untuk mengekstrak informasi bermakna dari sejumlah besar data merupakan tantangan utama dalam Big Data.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "key": "response-1",
+        "subject": "kuis"
+    },
+    {
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "answer": "Contoh implementasi Big Data di berbagai bidang antara lain: 1. Layanan Kesehatan: Catatan Kesehatan Elektronik (EHRs), pencitraan medis, dan analisis data genom. 2. Keuangan: Deteksi penipuan, penilaian risiko kredit, dan perdagangan algoritmik. 3. Ritel: Analisis perilaku pelanggan, manajemen inventaris, dan pemasaran yang dipersonalisasi. 4. Manufaktur: Pemeliharaan prediktif, optimalisasi rantai pasokan, dan kontrol kualitas. 5. Transportasi: Sistem transportasi cerdas, optimalisasi rute, dan pemeliharaan prediktif. 6. Energi: Jaringan pintar, pemantauan konsumsi energi, dan integrasi energi terbarukan. 7. Pendidikan: Analisis kinerja siswa, pembelajaran yang dipersonalisasi, dan alokasi sumber daya pendidikan.",
+        "rubric": "Skor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 2: Jawaban menyertakan hanya satu contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan dua contoh implementasi Big Data yang relevan.\nSkor 4: Jawaban menyertakan tiga contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari tiga contoh implementasi Big Data yang relevan.",
+        "key": "response-2",
+        "subject": "kuis"
+    },
+    {
+        "question": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
+        "answer": "Big Data mengacu pada kumpulan data besar dan kompleks yang memiliki karakteristik tertentu, sering disebut sebagai \u201c5V\u201d. Karakteristik tersebut adalah Volume, Kecepatan, Variasi, Kebenaran, dan Nilai. 1. Volume : Mengacu pada ukuran data yang sangat besar dan terus meningkat dengan pesat. Volume datanya bisa mencapai petabyte atau bahkan exabyte. Contohnya seperti data dari media sosial, sensor IoT, transaksi online, dan lain-lain. 2. Kecepatan: Menunjukkan kecepatan tinggi saat data dihasilkan dan perlu diproses. Data streaming dari media sosial, log transaksi online, dan data sensor adalah contoh di mana data perlu dianalisis secara real-time atau mendekati real-time. 3. Ragam: Menjelaskan berbagai jenis dan format data yang ditangani, mulai dari data terstruktur (seperti database), semi terstruktur (seperti XML, JSON), hingga data tidak terstruktur (seperti teks, video, dan gambar). Keragaman ini menambah kompleksitas pada pengelolaan dan analisis data. 4. Veracity: Berkaitan dengan keakuratan dan keandalan data. Karena banyaknya volume dan beragamnya sumber data, data seringkali mengandung ketidakpastian, ketidaklengkapan, atau bahkan kesalahan. Mengelola kebenaran berarti memastikan data yang dianalisis berkualitas tinggi dan dapat dipercaya. 5. Nilai: Merujuk pada potensi manfaat yang dapat diperoleh dari analisis dan pemanfaatan data. Big Data berpotensi memberikan wawasan dan mendorong pengambilan keputusan di berbagai industri, termasuk layanan kesehatan, keuangan, ritel, dan manufaktur.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.\nSkor 2: Jawaban menyebutkan dan menjelaskan satu ciri Big Data secara singkat. \nSkor 3: Jawaban menyebutkan dan menjelaskan dua ciri Big Data secara singkat.\nSkor 4: Jawaban menyebutkan dan menjelaskan tiga ciri Big Data secara singkat.\nSkor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga ciri Big Data secara singkat.",
+        "key": "response-3",
+        "subject": "kuis"
+    },
+    {
+        "question": "Apa yang dimaksud dengan ciri velocity?",
+        "answer": "Karakteristik kecepatan mengacu pada kecepatan data dihasilkan, diproses, dan dianalisis dalam sistem Big Data. Hal ini merupakan faktor penting untuk dipertimbangkan ketika merancang dan mengelola sistem Big Data, karena pertumbuhan data yang cepat dapat memberikan tekanan pada kemampuan sistem untuk menangani dan memproses data secara efisien. Untuk mengelola kecepatan data secara efektif dalam sistem Big Data, organisasi harus memiliki infrastruktur yang dapat diskalakan, algoritme pemrosesan data yang efisien, dan personel yang terampil untuk menganalisis dan menafsirkan data.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan velocity.\nSkor 3: Jawaban menyebutkan velocity namun penjelasan tidak relevan.\nSkor 5: Jawaban menyebutkan dan menjelaskan velocity dengan relevan.",
+        "key": "response-4",
+        "subject": "kuis"
+    },
+    {
+        "question": "Apa perbedaan database relational dan data warehouse?",
+        "answer": "Basis data relasional dirancang untuk menangani transaksi harian dan data operasional (OLTP) dengan skema terstruktur, sementara gudang data dioptimalkan untuk analisis dan pelaporan data historis dari berbagai sumber dengan struktur yang dioptimalkan untuk kueri kompleks.",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan perbedaan antara database relasional dan data warehouse.\nSkor 3: Jawaban menyebutkan satu perbedaan antara database relasional dan data warehouse dengan penjelasan yang relevan.\nSkor 5: Jawaban menyebutkan dua atau lebih perbedaan antara database relasional dan data warehouse dengan penjelasan yang benar dan singkat.",
+        "key": "response-5",
+        "subject": "kuis"
+    },
+    {
+        "question": "Apa tantangan-tantangan yang ada ketika mengimplementasikan Big Data?",
+        "answer": "1. Pengelolaan dan Penyimpanan Data 2. Pengolahan dan Analisis Data 3. Kualitas dan Kebersihan Data 4. Keamanan dan Privasi Data 5. Integrasi Data 6. Kekurangan Keterampilan 7. Infrastruktur dan Biaya Operasional",
+        "rubric": "Skor 1: Jawaban tidak menyebutkan tantangan dalam mengimplementasikan Big Data.\nSkor 3: Jawaban menyebutkan satu tantangan dalam mengimplementasikan big data.\nSkor 5: Jawaban menyebutkan lebih dari satu tantangan dalam mengimplementasikan big data.",
+        "key": "response-6",
+        "subject": "kuis"
+    }
+]

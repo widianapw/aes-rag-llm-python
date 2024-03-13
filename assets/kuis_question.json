@@ -1,44 +1,50 @@
 [
   {
     "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+    "question_for_model": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
     "column": "Response 1",
     "subject": "kuis",
-    "rubric": "Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.\nSkor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+    "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
     "key": "response-1"
   },
   {
     "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+    "question_for_model": "Berikan contoh implementasi Big Data di bidang masing-masing",
     "column": "Response 2",
     "subject": "kuis",
-    "rubric": "Skor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 2: Jawaban menyertakan hanya satu contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan dua contoh implementasi Big Data yang relevan.\nSkor 4: Jawaban menyertakan tiga contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari tiga contoh implementasi Big Data yang relevan.",
+    "rubric": "\nSkor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan satu contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari satu contoh implementasi Big Data yang relevan.",
     "key": "response-2"
   },
   {
     "question": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
+    "question_for_model": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
     "column": "Response 3",
     "subject": "kuis",
-    "rubric": "Skor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.\nSkor 2: Jawaban menyebutkan dan menjelaskan satu ciri Big Data secara singkat. \nSkor 3: Jawaban menyebutkan dan menjelaskan dua ciri Big Data secara singkat.\nSkor 4: Jawaban menyebutkan dan menjelaskan tiga ciri Big Data secara singkat.\nSkor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga ciri Big Data secara singkat.",
+    "rubric": "\nSkor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.\nSkor 2: Jawaban menyebutkan satu ciri Big Data secara singkat. \nSkor 3: Jawaban menyebutkan dua ciri Big Data secara singkat.\nSkor 4: Jawaban menyebutkan tiga ciri Big Data secara singkat.\nSkor 5: Jawaban menyebutkan lebih dari tiga ciri Big Data secara singkat.",
     "key": "response-3"
   },
   {
     "question": "Apa yang dimaksud dengan ciri velocity?",
+    "question_for_model": "Apa yang dimaksud dengan ciri velocity?",
     "column": "Response 4",
     "subject": "kuis",
-    "rubric": "Skor 1: Jawaban tidak menyebutkan velocity.\nSkor 3: Jawaban menyebutkan velocity namun penjelasan tidak relevan.\nSkor 5: Jawaban menyebutkan dan menjelaskan velocity dengan relevan.",
+    "rubric": "\nSkor 1: Jawaban tidak menyebutkan velocity.\nSkor 3: Jawaban menyebutkan velocity namun penjelasan tidak relevan.\nSkor 5: Jawaban menyebutkan dan menjelaskan velocity dengan relevan.",
     "key": "response-4"
   },
   {
     "question": "Apa perbedaan database relational dan data warehouse?",
+    "question_for_model": "Sebutkan 3 perbedaan database relational dan data warehouse?",
     "column": "Response 5",
     "subject": "kuis",
-    "rubric": "Skor 1: Jawaban tidak menyebutkan perbedaan antara database relasional dan data warehouse.\nSkor 3: Jawaban menyebutkan satu perbedaan antara database relasional dan data warehouse dengan penjelasan yang relevan.\nSkor 5: Jawaban menyebutkan dua atau lebih perbedaan antara database relasional dan data warehouse dengan penjelasan yang benar dan singkat.",
+    "rubric": "\nSkor 1: Jawaban tidak menyebutkan perbedaan antara database relasional dan data warehouse.\nSkor 3: Jawaban menyebutkan satu perbedaan antara database relasional dan data warehouse dengan penjelasan yang relevan.\nSkor 5: Jawaban menyebutkan dua atau lebih perbedaan antara database relasional dan data warehouse dengan penjelasan yang benar dan singkat.",
     "key": "response-5"
   },
   {
     "question": "Apa tantangan-tantangan yang ada ketika mengimplementasikan Big Data?",
+    "question_for_model": "Apa tantangan-tantangan yang ada ketika mengimplementasikan Big Data?",
     "column": "Response 6",
     "subject": "kuis",
-    "rubric": "Skor 1: Jawaban tidak menyebutkan tantangan dalam mengimplementasikan Big Data.\nSkor 3: Jawaban menyebutkan satu tantangan dalam mengimplementasikan big data.\nSkor 5: Jawaban menyebutkan lebih dari satu tantangan dalam mengimplementasikan big data.",
+    "rubric": "\nSkor 1: Jawaban tidak menyebutkan tantangan dalam mengimplementasikan Big Data.\nSkor 3: Jawaban menyebutkan satu tantangan dalam mengimplementasikan big data.\nSkor 5: Jawaban menyebutkan lebih dari satu tantangan dalam mengimplementasikan big data.",
     "key": "response-6"
   }
 ]

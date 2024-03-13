@@ -2,9 +2,11 @@ from langchain_community.llms import Ollama
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.vectorstores import Chroma
 from langchain.chains import RetrievalQA
+from langchain_community.embeddings import GPT4AllEmbeddings
 from langchain_community.embeddings import OllamaEmbeddings
 import json
 from langchain.prompts import ChatPromptTemplate
+from translator import mistral_translator
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.documents import Document
@@ -15,7 +17,7 @@ english_translator = GoogleTranslator(target="en")
 indonesian_translator = GoogleTranslator(target="id")
 
 llm = Ollama(model="mistral", temperature=0.1)
-loader = PyPDFLoader("../assets/books/kuis.pdf")
+loader = PyPDFLoader("../assets/books/uas.pdf")
 pages = loader.load_and_split()
 translated_pages = []
 
@@ -69,23 +71,23 @@ rag_chain = (
 # kuis_responses = kuis_responses[:5]
 
 # kuis question
-kuis_questions = []
-with open("../assets/kuis_question.json", "r") as f:
-    kuis_questions = json.load(f)
+questions = []
+with open("../assets/uas_question.json", "r") as f:
+    questions = json.load(f)
     # kuis_questions = filter(lambda x: x['key'] == 'response-6', kuis_questions)
-    kuis_questions = list(kuis_questions)
+    questions = list(questions)
 
 question_with_answers = []
 question_with_answer_english = []
-for question in kuis_questions:
-    translated_rubric = english_translator.translate(question["rubric"])
+for question in questions:
+    print("=======================")
+    print("rubric: "+question['rubric'])
+    print("question: "+question['question'])
+    print("question for model: "+question['question_for_model'])
+    translated_rubric = mistral_translator.translate_to_english(question["rubric"])
     translated_question = english_translator.translate(question['question_for_model'])
     # translated_question = mistral_translator.translate_to_english(question['question'])
 
-    print("=======================")
-    print("rubric: "+translated_rubric)
-    print("question: "+question['question'])
-    print("question for model: "+question['question_for_model'])
     answer = rag_chain.invoke(translated_question)
     translated_answer = indonesian_translator.translate(answer)
     # translated_answer = mistral_translator.translate_to_indonesia(answer)
@@ -109,9 +111,9 @@ for question in kuis_questions:
 
 # save to json file
 json_object = json.dumps(question_with_answers, indent=4)
-with open("../assets/kuis_with_answers.json", "w") as outfile:
+with open("../assets/uas_with_answers.json", "w") as outfile:
     outfile.write(json_object)
 
 json_object = json.dumps(question_with_answer_english, indent=4)
-with open("../assets/kuis_with_answers_english.json", "w") as outfile:
+with open("../assets/uas_with_answers_english.json", "w") as outfile:
     outfile.write(json_object)

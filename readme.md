@@ -8,6 +8,7 @@ pip install -r requirements.txt
 ```bash
   ollama pull mistral
   ollama pull llama2:7b
+  ollama pull gemma
   ```
 
 ## Usage File

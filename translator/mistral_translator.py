@@ -4,7 +4,18 @@ from langchain.prompts import HumanMessagePromptTemplate
 from langchain_core.messages import SystemMessage
 from langchain.prompts import PromptTemplate
 from deep_translator import GoogleTranslator
+import re
 
+def clean_result(answer):
+    # remove double new line, set to single new line
+    response = re.sub(r'\n{2,}', '\n', answer)
+    # remove extra spaces or tabs
+    response = re.sub(r'\s+', ' ', response)
+    # remove multiple dot (.), set to single dot
+    response = re.sub(r'\.{2,}', '.', response)
+    # trim leading and trailing whitespace
+    response = response.strip()
+    return response
 
 def translate_to_english(content: str) -> str:
     try:
@@ -15,6 +26,11 @@ def translate_to_english(content: str) -> str:
         )
         text = prompt_template.format(text=content)
         translated_content = llm.invoke(text)
+        translated_content = clean_result(translated_content)
+        #if translated_content starts with "translation : " then remove it
+        if translated_content.startswith("Translation: "):
+            translated_content = translated_content[len("Translation: "):]
+
         return translated_content
     except:
         translator = GoogleTranslator(target="id")
@@ -30,6 +46,11 @@ def translate_to_indonesia(content: str) -> str:
         )
         text = prompt_template.format(text=content)
         translated_content = llm.invoke(text)
+        translated_content = clean_result(translated_content)
+        #if translated_content starts with "translation : " then remove it
+        if translated_content.startswith("Translation: "):
+            translated_content = translated_content[len("Translation: "):]
+
         return translated_content
     except:
         translator = GoogleTranslator(target="id")

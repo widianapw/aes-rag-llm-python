@@ -2,7 +2,7 @@ def normalize_score(rubrics, score):
     try:
         #rubrics = "\nScore 1: asdsad.\n Score 2: adasdasasd asdad.\nScore 3: asdasd asdasd asdasd.\nScore 4: asdasd asdasd asdasd asdasd.\nScore 5: asdasd asdasd asdasd asdasd asdasd.
         available_scores = [int(s.split(":")[0].split(" ")[-1]) for s in rubrics.split("\n") if s]
-        print("Avaliable Scores: ", available_scores)
+        print("Available Scores: ", available_scores)
         if score in available_scores:
             return score
         else:

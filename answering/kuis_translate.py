@@ -14,7 +14,7 @@ import re
 english_translator = GoogleTranslator(target="en")
 indonesian_translator = GoogleTranslator(target="id")
 
-llm = Ollama(model="mistral", temperature=0.1)
+llm = Ollama(model="mistral-thesis", temperature=0.1)
 loader = PyPDFLoader("../assets/books/kuis.pdf")
 pages = loader.load_and_split()
 translated_pages = []

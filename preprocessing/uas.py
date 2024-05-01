@@ -11,8 +11,8 @@ question_columns = [
         "rubric": """Skor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.
 Skor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.
 Skor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.
-Skor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.
-Skor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan."""
+Skor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang relevan.
+Skor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang relevan."""
     },
     {
         "question": "Menurut Saudara, apakah pekerjaan Costumer Service dan pekerjaan yang sifat layanannya berulang, suatu saat akan dapat digantikan oleh mesin? Berikan alasan yang didasarkan pada konteks Transformasi Digital.",
@@ -20,9 +20,9 @@ Skor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari du
         "key": "response-2",
         "rubric": """Skor 1: Jawaban tidak membahas kemungkinan pekerjaan Customer Service digantikan oleh mesin dan tidak menyertakan alasan apa pun.
 Skor 2: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin, tetapi tidak menyertakan alasan yang mendukung pendapat tersebut.
-Skor 3: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin dan memberikan alasan yang umum, namun tidak secara langsung menghubungkan dengan konteks Transformasi Digital.
-Skor 4: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin dan memberikan alasan yang relevan, menunjukkan pemahaman tentang Transformasi Digital, tetapi tidak memberikan contoh atau aplikasi nyata.
-Skor 5: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin dan memberikan alasan yang relevan, menunjukkan pemahaman tentang Transformasi Digital dan memberikan contoh atau aplikasi nyata."""
+Skor 3: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin dan memberikan alasan yang umum, namun alasan yang diberikan tidak didasarkan pada konteks Transformasi Digital.
+Skor 4: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin dan memberikan alasan yang sesuai dengan konteks tranformasi digital, tetapi tidak memberikan contoh atau aplikasi nyata.
+Skor 5: Jawaban menjawab kemungkinan pekerjaan Customer Service digantikan oleh mesin dan memberikan alasan yang sesuai dengan konteks Transformasi Digital dan memberikan contoh atau aplikasi nyata."""
     },
     {
         "question": "Sebutkan 5 (lima) perbedaan utama dari sumber data tradisional dan sumber big data!",
@@ -52,7 +52,7 @@ Skor 5: Jawaban memberikan tiga perbedaan antara bentuk data yang terstruktur da
 Skor 2: Jawaban menjelaskan sensor dalam Internet of Things (IoT) namun tidak menyebutkan contohnya.
 Skor 3: Jawaban menjelaskan sensor dalam Internet of Things (IoT) dan menyebutkan satu contohnya.
 Skor 4: Jawaban menjelaskan sensor dalam Internet of Things (IoT) dan menyebutkan dua contohnya.
-Skor 5: Jawaban menjelaskan sensor dalam Internet of Things (IoT) dan menyebutkan tiga contohnya"""
+Skor 5: Jawaban menjelaskan sensor dalam Internet of Things (IoT) dan menyebutkan tiga contohnya."""
     },
     {
         "question": "Jelaskan mengenai Actuator dalam Internet of Things (IoT) dan sebutkan 3 (tiga) contohnya!",
@@ -87,10 +87,10 @@ Skor 5: Jawaban memberikan lebih dari satu contoh implementasi IoT pada lebih da
         "column": "Response 9",
         "key": "response-9",
         "rubric": """Skor 1: Jawaban tidak ada menyebut salah satu dari lima kriteria big data.
-Skor 2: Jawaban hanya menyebutkan dan menjelaskan satu kriteria dari big data secara singkat.
-Skor 3: Jawaban menyebutkan dan menjelaskan dua kriteria dari big data secara singkat.
-Skor 4: Jawaban menyebutkan dan menjelaskan tiga kriteria dari big data secara singkat.
-Skor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga kriteria dari big data secara singkat."""
+Skor 2: Jawaban hanya menyebutkan satu kriteria dari big data secara singkat.
+Skor 3: Jawaban menyebutkan dua kriteria dari big data secara singkat.
+Skor 4: Jawaban menyebutkan tiga kriteria dari big data secara singkat.
+Skor 5: Jawaban menyebutkan lebih dari tiga kriteria dari big data secara singkat."""
     }
 
 ]

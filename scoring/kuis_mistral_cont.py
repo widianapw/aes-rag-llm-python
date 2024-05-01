@@ -39,14 +39,14 @@ llm = Ollama(model="mistral", temperature=0.1)
 questions = []
 with open("../assets/kuis_with_answers_english.json", "r") as f:
     questions = json.load(f)
-    questions = filter(lambda x: x['key'] == 'response-3', questions)
+    # questions = filter(lambda x: x['key'] == 'response-3', questions)
     questions = list(questions)
     # questions = questions[:2]
 
 questions_id = []
 with open("../assets/kuis_question.json", "r") as f:
     questions_id = json.load(f)
-    questions = filter(lambda x: x['key'] == 'response-3', questions)
+    # questions = filter(lambda x: x['key'] == 'response-3', questions)
     questions_id = list(questions_id)
 
 for question in questions:
@@ -84,7 +84,6 @@ for question in questions:
         answers = list(answers)
         answers = answers[:20]
 
-    print(answers)
 
     for answer in answers:
         translated_response = mistral_translator.translate_to_english(answer["response"])

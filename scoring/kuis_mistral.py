@@ -9,7 +9,7 @@ from deep_translator import GoogleTranslator
 
 indonesian_translator = GoogleTranslator(target="id")
 
-llm = Ollama(model="mistral", temperature=0.1)
+llm = Ollama(model="mistral-thesis", temperature=0.1)
 
 questions = []
 with open("../assets/kuis_with_answers_english.json", "r") as f:

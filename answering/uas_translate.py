@@ -16,7 +16,7 @@ import re
 english_translator = GoogleTranslator(target="en")
 indonesian_translator = GoogleTranslator(target="id")
 
-llm = Ollama(model="mistral", temperature=0.1)
+llm = Ollama(model="mistral-thesis")
 loader = PyPDFLoader("../assets/books/uas.pdf")
 pages = loader.load_and_split()
 translated_pages = []
@@ -84,8 +84,9 @@ for question in questions:
     print("rubric: "+question['rubric'])
     print("question: "+question['question'])
     print("question for model: "+question['question_for_model'])
-    translated_rubric = mistral_translator.translate_to_english(question["rubric"])
-    translated_question = english_translator.translate(question['question_for_model'])
+    translated_rubric = english_translator.translate(question["rubric"])
+    translated_question_for_model = english_translator.translate(question['question_for_model'])
+    translated_question = english_translator.translate(question['question'])
     # translated_question = mistral_translator.translate_to_english(question['question'])
 
     answer = rag_chain.invoke(translated_question)

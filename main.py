@@ -1,52 +1,12 @@
-import bs4
-from langchain_community.llms import Ollama
-from langchain_community.document_loaders import WebBaseLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.vectorstores import Chroma
-from langchain_community.embeddings import GPT4AllEmbeddings
-from langchain.prompts import ChatPromptTemplate
-from langchain.schema.output_parser import StrOutputParser
-from langchain.schema.runnable import RunnablePassthrough
+answer = """{
+"question": "What are the 3 differences between a relational database and a data warehouse?",
+"score": 5,
+"reasoning": "The student mentions two clear differences between relational databases and data warehouses:
+1. Purpose: The student correctly states that relational databases are used for Online Transactional Processing (OLTP) but can also be used for other purposes such as Data Warehousing, while data warehouses are the second stage where data is no longer queried in large quantities and has been aggregated and denormalized for analysis.
+2. Data Structure: Although the student does not explicitly mention the data structure difference (relational databases use a structured schema with tables, rows, and columns requiring a predefined schema, while data warehouses organize data in a format optimal for querying and analysis), they do imply this difference by stating that relational databases have complicated tables and joins due to normalization, which is done to reduce redundant data and save storage space. Data warehouses, on the other hand, denormalize data for efficient querying and analysis.
 
-llm = Ollama(model="mistral")
-loader = WebBaseLoader(
-    web_paths=("https://revou.co/kosakata/big-data",),
-    # bs_kwargs=dict(
-    #     parse_only=bs4.SoupStrainer(
-    #         class_=("post-content", "post-title", "post-header")
-    #     )
-    # ),
-)
-docs = loader.load()
+Therefore, the student's answer meets the requirements of the rubric (mentioning two or more differences between relational databases and data warehouses with correct and concise explanations)."
+}"""
 
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-splits = text_splitter.split_documents(docs)
-# print(splits)
-# qa_translator = DoctranTextTranslator(language="indonesian")
-# translated_document = qa_translator.transform_documents(splits)
-
-vector_store = Chroma.from_documents(documents=splits, embedding=GPT4AllEmbeddings())
-retriever = vector_store.as_retriever()
-
-
-template = """Anda adalah asisten untuk tugas menjawab soal. Gunakan potongan-potongan konteks yang diambil berikut ini untuk menjawab pertanyaan. Jika Anda tidak tahu jawabannya, katakan saja bahwa Anda tidak tahu. Buatlah jawaban yang ringkas.
-{context}
-
-Soal: {question}
-
-"""
-prompt = ChatPromptTemplate.from_template(template)
-
-def format_docs(docs):
-    return "\n\n".join(doc.page_content for doc in docs)
-
-chain = (
-    {"context": retriever | format_docs, "question": RunnablePassthrough()}
-    | prompt
-    | llm
-    | StrOutputParser()
-)
-
-print("Chain is ready!")
-
-print(chain.invoke("Sebutkan karakteristik dari big data!"))
+# Evaluate the corrected string
+eval(answer)

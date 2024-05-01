@@ -9,9 +9,9 @@ question_columns = [
         "column": "Response 1",
         "key": "response-1",
         "rubric": """Skor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.
-Skor 2: Jawaban menyebutkan salah satu dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.
-Skor 3: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value', namun tanpa memberikan penjelasan yang relevan terhadap kedua istilah tersebut.
-Skor 4: Jawaban menyebutkan kedua istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan.
+Skor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.
+Skor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.
+Skor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.
 Skor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'."""
     },
     {
@@ -19,20 +19,18 @@ Skor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua k
         "column": "Response 2",
         "key": "response-2",
         "rubric": """Skor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.
-Skor 2: Jawaban menyertakan hanya satu contoh implementasi Big Data yang relevan.
-Skor 3: Jawaban menyertakan dua contoh implementasi Big Data yang relevan.
-Skor 4: Jawaban menyertakan tiga contoh implementasi Big Data yang relevan.
-Skor 5: Jawaban menyertakan lebih dari tiga contoh implementasi Big Data yang relevan."""
+Skor 3: Jawaban menyertakan satu contoh implementasi Big Data yang relevan.
+Skor 5: Jawaban menyertakan lebih dari satu contoh implementasi Big Data yang relevan."""
     },
     {
         "question": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
         "column": "Response 3",
         "key": "response-3",
         "rubric": """Skor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.
-Skor 2: Jawaban menyebutkan dan menjelaskan satu ciri Big Data secara singkat. 
-Skor 3: Jawaban menyebutkan dan menjelaskan dua ciri Big Data secara singkat.
-Skor 4: Jawaban menyebutkan dan menjelaskan tiga ciri Big Data secara singkat.
-Skor 5: Jawaban menyebutkan dan menjelaskan lebih dari tiga ciri Big Data secara singkat."""
+Skor 2: Jawaban menyebutkan satu ciri Big Data secara singkat. 
+Skor 3: Jawaban menyebutkan dua ciri Big Data secara singkat.
+Skor 4: Jawaban menyebutkan tiga ciri Big Data secara singkat.
+Skor 5: Jawaban menyebutkan lebih dari tiga ciri Big Data secara singkat."""
     },
     {
         "question": "Apa yang dimaksud dengan ciri velocity?",

@@ -1,0 +1,19 @@
+[
+    {
+        "no": 1,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it provides a clear description of Artificial Intelligence and includes more than two examples of AI, specifically Apple Siri, Google Maps, and Face recognition on Facebook.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence adalah sebuah sistem kecerdasan buatan yang mana dibuat sebagai simulasi kecerdasan manusia yang diproses atau dijalankan oleh suatu mesin terutama sistem komputer. Contoh AI : Apple Siri, Google Maps, dan Face recognition pada Facebook.",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena memberikan deskripsi yang jelas tentang Kecerdasan Buatan dan mencakup lebih dari dua contoh AI, khususnya Apple Siri, Google Maps, dan Pengenalan Wajah di Facebook."
+    }
+]

@@ -1,7 +1,8 @@
-from langchain_community.llms import Ollama
-from langchain.prompts import PromptTemplate
+from langchain_groq import ChatGroq
+from langchain_core.prompts import ChatPromptTemplate
 
-llm = Ollama(model="mistral")
+chat = ChatGroq(temperature=0, groq_api_key="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",
+                model_name="llama3-8b-8192")
 
 # prompt_template = PromptTemplate.from_template("""
 # Classify the question as 'open' or 'closed' based on the criteria and examples provided.
@@ -12,20 +13,20 @@ llm = Ollama(model="mistral")
 # desire answer format: open or closed
 # """)
 
-rubric = """Score 1: The answer does not explain the actuator in IoT and does not provide an example.
-Score 2: The answer explains the actuator in IoT but does not provide an example.
-Score 3: The answer explains the actuator in IoT and provides only one example.
-Score 4: The answer explains the actuator in IoT and provides two examples.
-Score 5: The answer explains the actuator in IoT and provides three examples."""
+rubric = """Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.
+Score 2: Answer describes Artificial Intelligence (AI) and does not include any examples.
+Score 3: Answer explains Artificial Intelligence (AI) and includes one example.
+Score 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.
+Score 5: The answer describes Artificial Intelligence (AI) and includes three or more examples of AI."""
 
-question = "Explain Actuators in the Internet of Things (IoT) and give examples!"
-retrieved_answer = "Actuators are devices that enable IoT applications to carry out real actions in the physical world. They are used to control the flow of liquids or gases, regulate temperature, and ventilate or cool air. Examples of actuators include water pumps, electric valves, heaters, and electric fans. These devices are crucial in home automation, industry, smart agriculture, healthcare, and many other areas where IoT is used to monitor environmental conditions and automatically take appropriate action."
+question = "What is meant by AI (Artificial Intelligence) and name 3 (three) examples"
+retrieved_answer = "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to see and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search."
+student_answer = "Artificial Intelligence is an artificial intelligence system which is created as a simulation of human intelligence which is processed or executed by a machine, especially a computer system. Examples of AI: Apple Siri, Google Maps, and Face recognition on Facebook."
 
-student_answer = "Actuator is one form of Physical component in the Internet of Things IoT. Actuator is a component or equipment to move or control a mechanism or system. Example of Actuator:  Actuators in cars that function to move the car system.  Actuator on a robot that functions to produce movement on the robot Actuator on a light search engine that functions to move the machine following the direction of the light source."
 
 
 def classifying():
-    prompt_template = PromptTemplate.from_template("""You are an assistant tasked with classifying questions into two categories: subjective or objective. Your task involves a systematic approach to analyze the nature of each question presented to you.
+    human = """You are an assistant tasked with classifying questions into two categories: subjective or objective. Your task involves a systematic approach to analyze the nature of each question presented to you.
 
 Question: "{question}"
 
@@ -40,16 +41,21 @@ json object with the following keys:
 "question": "{question}",
 "type": <subjective_or_objective_lower_cased>,
 "explanation: "<explanation>",
-"points": "<array_of_point_category_string>""")
-    output = llm.invoke(prompt_template.format(question=question))
-    return output
+"points": "<array_of_point_category_string>"""
+    prompt = ChatPromptTemplate.from_messages([("human", human)])
+    chain = prompt | chat
+    output = chain.invoke({
+        "question": question
+    })
+    return make_output_json(output.content)
 
 
 def planner(classifying_output):
     type = classifying_output['type']
     explanation = classifying_output['explanation']
     points = ", ".join(classifying_output['points'])
-    prompt_template = PromptTemplate.from_template("""You are an assistant to help creating thinking step about student answer based on question, context, and rubric.
+
+    human = """You are an assistant to help creating thinking step about student answer based on question, context, and rubric.
 
 rubric:
 {rubric}
@@ -72,25 +78,32 @@ please think it step by step about this rubric, question, question type, key poi
 
 When evaluating answers to questions that include a request for examples, don't limit your assessment to just the examples provided in the provided context. Instead, consider a broad range of possible examples that could apply, ensuring a comprehensive evaluation.
 
+Dont to be strict, be flexible and open-minded to consider various perspectives and interpretations.
+
 output format desire:
 json array object with following key:
 step : <number>,
 about: <string>,
-thought: <string>""")
-    prompt_final = prompt_template.format(rubric=rubric, question=question, type=type, explanation=explanation,
-                                          points=points, retrieved_answer=retrieved_answer,
-                                          student_answer=student_answer)
-    print(prompt_final)
-    output = llm.invoke(prompt_final)
-    return output
+thought: <string>"""
+    prompt = ChatPromptTemplate.from_messages([("human", human)])
+    chain = prompt | chat
+    output = chain.invoke({
+        "rubric": rubric,
+        "question": question,
+        "type": type,
+        "explanation": explanation,
+        "points": points,
+        "retrieved_answer": retrieved_answer,
+        "student_answer": student_answer
+    })
+    return make_output_json_array(output.content)
 
 
 def response_per_step(classifying_output, planner_output_string):
     type = classifying_output['type']
     explanation = classifying_output['explanation']
     points = ", ".join(classifying_output['points'])
-
-    prompt_template = PromptTemplate.from_template("""You are an assistant to give response based on the following steps.
+    human = """You are an assistant to give response based on the following steps.
 
 rubric:
 {rubric}
@@ -119,13 +132,21 @@ json array object with following keys:
 step: <number>,
 about: <string>,
 thought: <string>,
-response: <string>""")
-    prompt_final = prompt_template.format(rubric=rubric, question=question, type=type, explanation=explanation,
-                                          points=points, retrieved_answer=retrieved_answer,
-                                          student_answer=student_answer, steps=planner_output_string)
-    print(prompt_final)
-    output = llm.invoke(prompt_final)
-    return output
+response: <string>"""
+
+    prompt = ChatPromptTemplate.from_messages([("human", human)])
+    chain = prompt | chat
+    output = chain.invoke({
+        "rubric": rubric,
+        "question": question,
+        "type": type,
+        "explanation": explanation,
+        "points": points,
+        "retrieved_answer": retrieved_answer,
+        "student_answer": student_answer,
+        "steps": planner_output_string
+    })
+    return make_output_json(output.content)
 
 
 def scoring(classifying_output, response_per_step_output_string):
@@ -133,7 +154,7 @@ def scoring(classifying_output, response_per_step_output_string):
     explanation = classifying_output['explanation']
     points = ", ".join(classifying_output['points'])
 
-    prompt_template = PromptTemplate.from_template("""You are an academic expert to give score and reason for the student answer.
+    human = """You are an academic expert to give score and reason for the student answer.
 
 rubric:
 {rubric}
@@ -162,17 +183,66 @@ json object with following attibute:
 question: <string>
 answer: <student_answer>
 score: <number>
-reasoning: <string>""")
-    prompt_final = prompt_template.format(rubric=rubric, question=question, type=type, explanation=explanation,
-                                          points=points, retrieved_answer=retrieved_answer,
-                                          student_answer=student_answer, thoughts=response_per_step_output_string)
-    print(prompt_final)
-    output = llm.invoke(prompt_final)
-    return output
+reasoning: <string>"""
+    prompt = ChatPromptTemplate.from_messages([("human", human)])
+    chain = prompt | chat
+    output = chain.invoke({
+        "rubric": rubric,
+        "question": question,
+        "type": type,
+        "explanation": explanation,
+        "points": points,
+        "retrieved_answer": retrieved_answer,
+        "student_answer": student_answer,
+        "thoughts": response_per_step_output_string
+    })
+    return make_output_json(output.content)
+
+
+def make_output_json_array(output):
+    llm_output = output
+    # if llm_output is contains } or not
+    if "[" in llm_output:
+        llm_output = llm_output[llm_output.index("["):]
+    else:
+        if llm_output[0] != "[":
+            llm_output = "[" + llm_output
+
+    # check if llm_output is end with } or not
+    if "]" in llm_output:
+        llm_output = llm_output[:llm_output.index("]") + 1]
+    else:
+        if llm_output[-1] != "]":
+            llm_output += "]"
+
+    # print(llm_output)
+    return llm_output
+
+def make_output_json(output):
+    llm_output = output
+    # if llm_output is contains } or not
+    if "{" in llm_output:
+        llm_output = llm_output[llm_output.index("{"):]
+    else:
+        if llm_output[0] != "{":
+            llm_output = "{" + llm_output
+
+    # check if llm_output is end with } or not
+    if "}" in llm_output:
+        llm_output = llm_output[:llm_output.index("}") + 1]
+    else:
+        if llm_output[-1] != "}":
+            llm_output += "}"
+
+    # print(llm_output)
+    return llm_output
+
 
 
 classifying_output = classifying()
+print(classifying_output)
 planner_output = planner(eval(classifying_output))
+print(planner_output)
 # transform planner_output array to string
 
 planner_output_string = ""

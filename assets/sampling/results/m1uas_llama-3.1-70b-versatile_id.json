@@ -1,0 +1,342 @@
+[
+    {
+        "no": 1,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it provides a description of Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Apple Siri, Google Maps, and Face recognition on Facebook.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence adalah sebuah sistem kecerdasan buatan yang mana dibuat sebagai simulasi kecerdasan manusia yang diproses atau dijalankan oleh suatu mesin terutama sistem komputer. Contoh AI : Apple Siri, Google Maps, dan Face recognition pada Facebook.",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena memberikan deskripsi Kecerdasan Buatan (AI) dan mencakup lebih dari dua contoh AI, khususnya menyebutkan Apple Siri, Google Maps, dan Pengenalan Wajah di Facebook."
+    },
+    {
+        "no": 2,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) as a computer program with human-like intelligence and provides more than two examples of AI, specifically Google Assistant, Automated messages from telephone service operators, and NPCs in computer games.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI artificial intelligence adalah program komputer yang dibuat dan dikembangkan untuk memiliki kecerdasan sepertimendekati manusia. Contoh: - Google Assistant - Pesan otomatis operator layanan telepon - NPC dalam permainan komputer",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menggambarkan Kecerdasan Buatan (AI) sebagai program komputer dengan kecerdasan seperti manusia dan memberikan lebih dari dua contoh AI, khususnya Google Assistant, Pesan otomatis dari operator layanan telepon, dan NPC dalam permainan komputer."
+    },
+    {
+        "no": 3,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides three examples of AI, namely robotic service, Tesla car, and smart home, exceeding the guideline's requirement of more than two examples.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Merupakan sebuah mesin yang diprogram atau kecerdasan buatan yang berdasarkan pada kecerdasan manusia dan melakukan apa yang diperintahkan oleh manusia berdasarkan hasil program yang diberikan contoh:  Pelayanan robotik di salah satu gerai ramen di jepang  mobil tesla yang merupakan mobil dengan pengemudi otomatis  Rumah pintar yang dimana semua komponen seperti lampu, listrik, ac dan lain-lainnya dikendalikan melalui google assistant",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan memberikan tiga contoh AI, yaitu layanan robotik, mobil Tesla, dan rumah pintar, melampaui persyaratan pedoman lebih dari dua contoh."
+    },
+    {
+        "no": 4,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, including Google maps, smart cars, and e-commerce applications, demonstrating a clear understanding of AI and its applications.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "artificial Intelligence adalah teknologi yang diciptakan untuk menstimulasi kecerdasan pada manusia lalu menerapkannya kepada mesin, seperti komputer. teknologi yang seakan-akan bisa menggantikan tugas manusia. contoh:  Google maps,  mobil pintar mengemudi secara otomatis,  penerapan AI pada e-commerce terutama di bagian explore barang-barang suatu e-commerce.",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan memberikan lebih dari dua contoh AI, termasuk peta Google, mobil pintar, dan aplikasi e-commerce, yang menunjukkan pemahaman yang jelas tentang AI dan penerapannya."
+    },
+    {
+        "no": 5,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer provides a clear description of Artificial Intelligence (AI) and includes more than two examples of AI, specifically three examples: Tesla cars, Youtube Recommends, and Google Assistant, which perfectly matches the scoring guideline.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Kecerdasan buatan adalah kecerdasan yang ditambahkan kepada suatu sistem yang bisa diatur dalam konteks ilmiah atau bisa disebut juga intelegensi artifisial bahasa Inggris: Artificial Intelligence atau hanya disingkat AI, didefinisikan sebagai kecerdasan entitas ilmiah. Kecerdasan buatan atau Artificial Intelligence AI adalah simulasi dari kecerdasan yang dimiliki oleh manusia yang dimodelkan di dalam mesin dan diprogram agar bisa berpikir seperti halnya manusia. Sedangkan menurut Mc Leod dan Schell, kecerdasan buatan adalah aktivitas penyediaan mesin seperti komputer dengan kemampuan untuk menampilkan perilaku yang dianggap sama cerdasnya dengan jika kemampuan tersebut ditampilkan oleh manusia. Dengan kata lain AI merupakan sistem komputer yang bisa melakukan pekerjaan-pekerjaan yang umumnya memerlukan tenaga manusia atau kecerdasan manusia untuk menyelesaikan pekerjaan tersebut. Contoh : - Mobil Tesla menentukan jalan secara autonomus - Youtube Merekomendasikan video berdasarkan video yang kita tonton - Google Assistant Merekognisasi suara dan mengubahnya menjadi interaksi ke penggunanya",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa memberikan deskripsi yang jelas tentang Kecerdasan Buatan (AI) dan mencakup lebih dari dua contoh AI, khususnya tiga contoh: mobil Tesla, Youtube Recommends, dan Google Assistant, yang sangat sesuai dengan pedoman penilaian."
+    },
+    {
+        "no": 6,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer accurately describes Artificial Intelligence (AI) and provides more than two examples of AI, including search engines, virtual assistants, and autonomous cars, which perfectly matches the scoring guideline.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence merupakan kecerdasan yang diimplementasikan pada sebuah sistem komputer yang bisa meniru cara berpikir manusia dalam menyelesaikan sebuah pekerjaan. Contoh: 1. Search engine seperti google 2. Virtual Assistant seperti Siri, Alexa, Google Asistant, dll 3. Autonomus Car seperti Tesla untuk berjalan otomatis",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara akurat menggambarkan Kecerdasan Buatan (AI) dan memberikan lebih dari dua contoh AI, termasuk mesin pencari, asisten virtual, dan mobil otonom, yang sangat sesuai dengan pedoman penilaian."
+    },
+    {
+        "no": 7,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically three examples: Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI).",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI adalah kecerdasan buatan, dimana komputer atau mesin, perangkat lunak, dan sistem memiliki kemampuan untuk mendapat dan mengaplikasikan pengetahuan yang dimiliki manusia. Dalam AI, terdapat proses elarning, decision-making, dan self correction. 3 contoh AI 1. Artificial Narrow Intelligence ANI Merupakan sebuah machine learning, biasanya beroperasi pada 1 area dan menyelesaikan 1 masalah 2. Artificial General Intelligence AGI Merupakan amchine intelligence, kemampuan komputer dalam mengaplikasikan pengetahuan sudah setara dengan manusia menyamai kecerdasan manusia 3. Artificial Super Intelligence ASI Merupakan machine conciousness, biasanya berupa deep learning dan memiliki kecerdasan di atas kecerdasan manusia.",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan memberikan lebih dari dua contoh AI, khususnya tiga contoh: Kecerdasan Sempit Buatan (ANI), Kecerdasan Umum Buatan (AGI), dan Kecerdasan Super Buatan (ASI)."
+    },
+    {
+        "no": 8,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes AI as the ability to think and gain knowledge done by computer machines and provides more than two examples of AI, including automatic cars, car plate recognition, and strategy games like chess, meeting the guideline's requirements.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI Artificial Intelligence adalah kemampuan untuk berpikir dan mendapatkan ilmu knowledge yang dilakukan oleh mesin komputer. AI digunakan dalam berbagai bidang dan beberapa contohnya antara lain mobil otomatis seperti tesla, rekognisi plat mobil, ataupun sebagai mesin dalam game-game strategi seperti catur.",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menggambarkan AI sebagai kemampuan untuk berpikir dan memperoleh pengetahuan yang dilakukan oleh mesin komputer dan memberikan lebih dari dua contoh AI, termasuk mobil otomatis, pengenalan plat mobil, dan permainan strategi seperti catur, yang memenuhi persyaratan pedoman."
+    },
+    {
+        "no": 9,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) as a program that processes information automatically and provides more than two examples of AI, specifically Google maps, Apple Siri, and Google Assistant.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Arificial Intellligence adalah program dimana informasi atau intelegensi akan diproses oleh mesin secara otomatis. Contoh : - Google maps - Apple Siri - Google Assistant",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) sebagai program yang memproses informasi secara otomatis dan memberikan lebih dari dua contoh AI, khususnya Google Maps, Apple Siri, dan Google Assistant."
+    },
+    {
+        "no": 10,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.75,
+            "reason": "The student answer matches the scoring guideline as it describes AI as a simulation of intelligence modeled in a machine, and provides three examples of AI, meeting the requirement of more than two examples.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Sebuah simulasi kecerdasan yang dimodelkan dalam sebuah mesin Contoh: navigasi google, sosial media, layanan perbankan",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menggambarkan AI sebagai simulasi kecerdasan yang dimodelkan dalam mesin, dan memberikan tiga contoh AI, memenuhi persyaratan lebih dari dua contoh."
+    },
+    {
+        "no": 11,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically four examples: virtual assistants, movie recommendations, shopping recommendations, and systems for recognizing faces.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial intelligence atau kecerdasan buatan merupakan mesin yang dapat mensimulasikan kecerdasan manusia sehingga dengan sistem-sistem tersebut mesin dapat melakukan pekerjaan yang biasanya memerlukan tenaga manusia. Contoh AI, antara lain asisten virtual, rekomendasi film, rekomendasi belanja, dan sistem untuk mengenali wajah.",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan memberikan lebih dari dua contoh AI, khususnya empat contoh: asisten virtual, rekomendasi film, rekomendasi belanja, dan sistem untuk mengenali wajah."
+    },
+    {
+        "no": 12,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.75,
+            "reason": "The student answer partially matches the scoring guideline as it describes AI and provides three examples (GPS, speech text, and VR), but the description of AI is somewhat redundant and could be more concise.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence AI adalah program kecerdasaan buatan yang dibuat menyerupai tindakan dan pola pikir manusia dengan menggunakan mesin contohnya adalah GPS, penggunaan speech text, VR virtual reality",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sebagian sesuai dengan pedoman penilaian karena menjelaskan AI dan memberikan tiga contoh (GPS, teks ucapan, dan VR), tetapi deskripsi AI agak berlebihan dan bisa lebih ringkas."
+    },
+    {
+        "no": 13,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically listing Google Maps, Apple Siri, and Face lock password.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI Artificial Intelligence merupakan sebuah proses yang dijalankan oleh mesin atau sistem komputer, yang menyerupai atau mensimulasikan kemampuan serupa dengan manusia. Beberapa kemampuan manusia yang dapat disimulasikan antara lain kemampuan belajar, mengambil keputusan, serta memperbaiki kesalahan. Contoh AI: - Google Maps - Apple Siri - Face lock password",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan memberikan lebih dari dua contoh AI, khususnya Google Maps, Apple Siri, dan kata sandi kunci wajah."
+    },
+    {
+        "no": 14,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and includes more than two examples of AI, specifically four examples: Google Maps, Alexa, Siri, and Face Recognition applications.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI atau Artificial Intelegence adalah mesin yang diciptakan untuk menstimulasi intelegensi manusia yang diproses melalui mesin, terutama sistem komputer. Proses tersebut meliputi learning, decision-making, dan self-correction. Contoh dari AI adalah aplikasi google maps, Alexa, siri, dan face recognition",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan mencakup lebih dari dua contoh AI, khususnya empat contoh: Google Maps, Alexa, Siri, dan aplikasi Pengenalan Wajah."
+    },
+    {
+        "no": 15,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically mentioning Tesla cars, Siri on Google, and Netflix, although the description of AI is somewhat vague and lacks clarity.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI adalah kecerdasan buatan dari cabang ilmu yang ada di bidang komputer, yang isi di dalamnya lebih menekankan pola pikir dan bekerja pada manusia, pengembangan dalam hal intellejen mesin, dan lain sebagainya contohnya yaitu pada mobil Tesla, Siri pada google, dan pada Netflix",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan memberikan lebih dari dua contoh AI, khususnya menyebutkan mobil Tesla, Siri di Google, dan Netflix, meskipun deskripsi AI agak kabur dan kurang jelas."
+    },
+    {
+        "no": 16,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes AI as 'intelligence created by humans based on a scientific context' and provides more than two examples of AI, including AI for drug discovery and pharmaceutical science, Genose Human AI, and Mr. Sunu's YouTube video, meeting the guideline's requirements.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI Artificial Intelligence atau kecerdasan artifisial adalah kecerdasan yang dibuat oleh manusia berdasarkan konteks ilmiah. Contoh AI :  AI untuk drug discovery and pharmaceutical science  Genose  Manusia AI di IG instagram.comthalasya  Video youtube Pak Sunu waktu kuliah sinkron",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa tersebut sesuai dengan pedoman penilaian karena menggambarkan AI sebagai 'kecerdasan yang diciptakan oleh manusia berdasarkan konteks ilmiah' dan memberikan lebih dari dua contoh AI, termasuk AI untuk penemuan obat dan ilmu farmasi, Genose Human AI, dan video YouTube Tn. Sunu, yang memenuhi persyaratan pedoman."
+    },
+    {
+        "no": 17,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it provides a clear description of Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Virtual Assistants, E-Commerce Recommendations, and Facebook's DeepFace, thereby fully meeting the guideline's requirements.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI adalah simulasi dari kecerdasan yang dimiliki oleh manusia yang dimodelkan dalam dalam sebuah model mesin dan diprogram agar bisa berpikir seperti manusia Contoh AI - Asisten Virtual contohnya seperti Siri apple, Alexa Amazon, dan Cortana Microsoft - Rekomendasi E-Commerce rekomendasi berdasarkan tingkah laku pengguna - DeepFace Facebook  berfungsi untuk mengenali wajah orang yang ada pada postingan foto",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena memberikan deskripsi yang jelas tentang Kecerdasan Buatan (AI) dan mencakup lebih dari dua contoh AI, khususnya menyebutkan Asisten Virtual, Rekomendasi E-Commerce, dan DeepFace Facebook, sehingga sepenuhnya memenuhi persyaratan pedoman."
+    },
+    {
+        "no": 18,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, including Google Maps, Siri/Alexa, and Tesla cars, which demonstrates a good understanding of the concept.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intellegence adalah salah satu perkembangan yang mana suatu mesin memiliki kecerdasan yang setara dengan kecerdasan otak manusia, seperti pada sistem komputer. Contoh AI adalah Google Maps, SiriAlexa, dan mobil Tesla bisa berjalan tanpa pengemudi.",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan memberikan lebih dari dua contoh AI, termasuk Google Maps, Siri/Alexa, dan mobil Tesla, yang menunjukkan pemahaman yang baik tentang konsep tersebut."
+    },
+    {
+        "no": 19,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically mentioning Alexa, Siri, and Google's Assistantmaps, although the last one seems to be a typo and might be referring to Google Assistant and Google Maps separately.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence adalah Intelligence yang diperlihatkandidemonstrasi oleh mesin buatan manusia. AI tidak memiliki kesadaran consciousness dan emosi seperti Intelligence yang diperlihatkan manusia. 3 contoh AI: Alexa, Siri, dan Googles Assistantmaps.",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan memberikan lebih dari dua contoh AI, khususnya menyebutkan Alexa, Siri, dan Google Assistantmaps, meskipun yang terakhir tampaknya salah ketik dan mungkin merujuk ke Google Assistant dan Google Maps secara terpisah."
+    },
+    {
+        "no": 20,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.75,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Google Assistant, Apple Siri speech recognition, and Alexa, although it does not fully elaborate on the examples.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "Apa yang dimaksud dengan AI (Artificial Intelligence) dan sebutkan 3 (tiga) contohnya",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial intelligence mengacu pada simulasi kecerdasan manusia dalam mesin terkhususnya sistem komputer yang diprogram untuk berpikir seperti manusia dan meniru tidakannya meniru proses intelegensi manusia. Proses yang ditiru termasuk pembelajaran perolehan informasi dan aturan menggunakan informasi dan pengambilan keputusan dan koreksi diri. Yang membedakan AI dengan manusia adalah kesadaran dan emosi. Contoh: Google Assistant, Apple Siri speech recognition, Alexa",
+        "rubric": "\nSkor 1: Jawaban tidak menjelaskan apa itu Kecerdasan Buatan (AI) dan tidak menyertakan contoh.\nSkor 2: Jawaban menjelaskan Kecerdasan Buatan (AI) dan tidak menyertakan contoh apa pun.\nSkor 3: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan satu contoh yang relevan.\nSkor 4: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan dua contoh AI yang berbeda dan relevan.\nSkor 5: Jawaban menjelaskan Kecerdasan Buatan (AI) dan menyertakan lebih dari dua contoh AI yang berbeda dan relevan.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sesuai dengan pedoman penilaian karena menjelaskan Kecerdasan Buatan (AI) dan mencakup lebih dari dua contoh AI, khususnya Google Assistant, pengenalan suara Apple Siri, dan Alexa, meskipun tidak menguraikan contoh-contoh tersebut secara lengkap."
+    }
+]

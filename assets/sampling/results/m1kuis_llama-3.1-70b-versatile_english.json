@@ -1,0 +1,444 @@
+[
+    {
+        "no": 1,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "1. Veracity Truth Is the level of truth of Big Data, whether the data contained is truly clean and accurate or not. The truth of the data is equivalent to the quality of the data. 2. Value Value Is the level of value of Big Data, whether the data contained truly has value or not. Many data in Big Data are high-value data and of course must have special procedures to be able to access them.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 2,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Two other characteristics are: a. Veracity, big data has vulnerabilities in terms of accuracy and validity so that it requires in-depth analysis. b. Value, big data has a very high value if processed in an appropriate manner. Reference: Prayogo, C., 2019, What is Big Data https:www.wartaekonomi.co.idread261904what-is-big-data, accessed on May 7, 2021.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 3,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity means that big data has vulnerabilities in terms of accuracy and validity, so it requires depth to analyze big data in order to produce the right decision. Veracity refers to how accurate and reliable a data is. Value means that big data has a very high value if it is processed in the right way. Or it can also be said how valuable or meaningful a data is.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 4,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity means that big data has vulnerabilities in terms of accuracy and validity, so it requires depth to analyze big data in order to produce the right decisions. Value means big data has very high value if processed in an appropriate way.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 5,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity: In this context it is equivalent to quality. We have all the data, but is the data correct, can there be any data missed, is the data clean and accurate, do they really have something to offer. so this veracity is the truth of the data we get. Value: The value of the data we get to run what we want to run like a business.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 6,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "1. Value is valuable and meaningful: big data has a very high value if processed in the right way. 2. Veracity is accurate: big data has vulnerabilities in terms of accuracy and validity so that it requires depth to analyze big data in order to produce the right decision.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 7,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "2V besides Variety, Velocity, and Volume are V and Value. 1. Veracity. Big Data has vulnerabilities in terms of accuracy and validity so it requires depth to analyze big data in order to produce the right decision. Veracity refers to how accurate and reliable the data is. 2. Value, means that Big Data has a very large value if processed in the right way or can also be interpreted as how valuable the data is.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 8,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', perfectly aligning with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "1. VeracityValidity: the quality of data that is accurate, correct, and reliable so that it helps the process of making the right decision. 2. Value: the ability to change data into something valuable, impactful, or useful",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', perfectly aligning with the scoring guideline."
+    },
+    {
+        "no": 9,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.0,
+            "reason": "The student answer does not mention and provide relevant explanations for both concepts 'Veracity' and 'Value' as required by the scoring guideline, instead it only mentions Volume, Velocity, and Variety.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Volume is the amount of big data that continues to grow and is continuously produced every day which is stored in digital internet format. Velocity is the speed of growth or addition of big data that cannot be controlled so that it is difficult to process the data with conventional technology. Variety is the various types of data available in big data.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer does not mention and provide relevant explanations for both concepts 'Veracity' and 'Value' as required by the scoring guideline, instead it only mentions Volume, Velocity, and Variety."
+    },
+    {
+        "no": 10,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.5,
+            "reason": "The student answer partially matches the scoring guideline as it mentions and provides relevant explanations for 'Value' but only mentions 'Veracity' in the breakdown without providing a clear explanation in the initial answer.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Visualization is very important in presenting data that can be understood more easily. Value, where data must ultimately create a value for the company or organization.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer partially matches the scoring guideline as it mentions and provides relevant explanations for 'Value' but only mentions 'Veracity' in the breakdown without providing a clear explanation in the initial answer."
+    },
+    {
+        "no": 11,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.0,
+            "reason": "The student answer does not mention and provide relevant explanations for both concepts 'Veracity' and 'Value' as required by the scoring guideline, instead it discusses 'Variability' and 'Visualization' which are not relevant to the guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Variability is the continuity of data changes that occur continuously. Visualization is used to present data that can be understood more easily.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer does not mention and provide relevant explanations for both concepts 'Veracity' and 'Value' as required by the scoring guideline, instead it discusses 'Variability' and 'Visualization' which are not relevant to the guideline."
+    },
+    {
+        "no": 12,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.5,
+            "reason": "The student answer mentions only one of 'Veracity' or 'Value' with a relevant explanation, specifically 'Value', which aligns with the scoring guideline, but does not mention 'Veracity' as defined in the breakdown, resulting in a partial match.",
+            "rubric_text": "The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.",
+            "rubric_score": 3
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Variability is the continuity of data changes that occur continuously. Value is data that must ultimately create a value for the company or organization.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 3,
+        "key": "response-1",
+        "reasoning": "The student answer mentions only one of 'Veracity' or 'Value' with a relevant explanation, specifically 'Value', which aligns with the scoring guideline, but does not mention 'Veracity' as defined in the breakdown, resulting in a partial match."
+    },
+    {
+        "no": 13,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "VALUE value and VERACITY honesty a. Value value is the function or usefulness of data. Big data has a very high value if processed properly. b. Veracity honesty is the vulnerability of the accuracy and validity of big data so that it requires depth to analyze big data in order to produce the right decision.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 14,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', perfectly matching the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity dan value",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', perfectly matching the scoring guideline."
+    },
+    {
+        "no": 15,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.5,
+            "reason": "The student answer only partially matches the scoring guideline as it mentions and provides a relevant explanation for 'Veracity' but does not mention 'Value' at all.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "a. VALIDITY: Related to data quality, governance, and massive master data management b. VERACITY: Data accuracy. Information processed from the data so that it can become useful and reliable information, we must also look at the data sources used.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer only partially matches the scoring guideline as it mentions and provides a relevant explanation for 'Veracity' but does not mention 'Value' at all."
+    },
+    {
+        "no": 16,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "1. Veracity: refers to how accurate and reliable it is because big data has vulnerabilities in terms of accuracy so it requires depth to analyze big data in order to produce the right decision. 2. Value: big data has a very high value if processed in the right way to understand the meaning of data.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 17,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.5,
+            "reason": "The student answer mentions 'Veracity' but not 'Value', and incorrectly uses 'Volality' instead of 'Volatility', and does not provide a clear explanation for both concepts as required by the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "- Veracity data that runs quickly can become data that is biased, abnormal, and too noisy to use immediately. This means that there needs to be a strategy to reduce and process the big data obtained so that it can function. - Volality we need to consider the answer to the question of how long the data is valid and how long volatility needs to be displayed. This is related to the velocity aspect where it is very possible to get real time data. Special considerations need to be taken to assess the relevance of the data to the needs of city managers.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer mentions 'Veracity' but not 'Value', and incorrectly uses 'Volality' instead of 'Volatility', and does not provide a clear explanation for both concepts as required by the scoring guideline."
+    },
+    {
+        "no": 18,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning with the scoring guideline, although the explanation for Veracity is brief and could be more detailed.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity, i.e. Big Data has a vulnerability in terms of accuracy and validity so it needs depth to analyze Big Data in order to produce the right decision. Value, meaning Big Data has a very high value when processed in the right way.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning with the scoring guideline, although the explanation for Veracity is brief and could be more detailed."
+    },
+    {
+        "no": 19,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "In addition to 3V, namely Variety, Velocity, and Volume, the other 2Vs that are included in the characteristics of Big Data are: Veracity. Veracity or truth is a characteristic of Big Data which means that Big Data has a certain degree of reliability of the data. Because the majority of data is unstructured and irrelevant, Big Data needs an alternative way to filter out the inappropriate data, or translate it if necessary if needed. In this case, Big Data has vulnerabilities in terms of accuracy and validity so that it requires depth to analyze Big Data in order to produce the right decision. Thus, Big Data must achieve a certain degree of reliability so that the existing data is valid for use in its implementation. Value. Value includes not only the amount of data in Big Data that is stored and processed, but also includes the amount of valuable, true, and valid data that must be stored, processed, and analyzed in its implementation. Thus, Big Data has a very high value if processed in an appropriate manner.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 20,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "The module explains the 3 characteristics of Big Data, namely Variety, Velocity and Volume. Name and explain the other 2Vs that have been explained in the module.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Value means big data has a very high value if processed in an appropriate way or it can also be said how valuable or meaningful a data is. Veracity refers to the trustworthiness of the data. The more data is collected and analyzed automatically but is not captured in its entirety due to high volume and speed. the larger the data, the higher the uncertainty about the accuracy of the data.",
+        "rubric": "Score 1: The answer does not mention 'Veracity' or 'Value' or the answer given is not related to the concept of Big Data.\nScore 2: The answer only mentions the terms 'Veracity' or 'Value' without any relevant explanation.\nScore 3: The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.\nScore 4: The answer mentions the terms 'Veracity' and 'Value'. An explanation is given for one of these terms as relevant, but the second term is not explained or is not relevant.\nScore 5: Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline."
+    },
+    {
+        "no": 1,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.5,
+            "reason": "The student answer partially matches the scoring guideline as it provides one relevant Big Data implementation example in the field of Business Economics, but lacks additional examples to fully meet the guideline's implicit expectation of multiple examples.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Give examples of Big Data implementation in your respective fields",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "An example of Big Data implementation is in the field of Business Economics where Big Data stores each customer's savings account data in a large container. When a process such as withdrawing money, sending money, a certain procedure is needed to be able to process it.",
+        "rubric": "Score 1: The answer does not include any examples of relevant Big Data implementation.\nScore 3: Answer includes one relevant Big Data implementation example.\nScore 5: Answer includes more than one example of relevant Big Data implementation.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "The student answer partially matches the scoring guideline as it provides one relevant Big Data implementation example in the field of Business Economics, but lacks additional examples to fully meet the guideline's implicit expectation of multiple examples."
+    },
+    {
+        "no": 2,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.5,
+            "reason": "The student answer partially matches the scoring guideline as it provides one relevant Big Data implementation example in the tourism sector, but also includes additional unrelated examples in points 2 and 3, which are not relevant to the scoring guideline.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Give examples of Big Data implementation in your respective fields",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "Examples of big data implementation in tourism, namely the use of big data to map potential and strengthen various aspects of the tourism sector and the creative economy. For example, the use of big data on various social media platforms to promote a tourist destination.",
+        "rubric": "Score 1: The answer does not include any examples of relevant Big Data implementation.\nScore 3: Answer includes one relevant Big Data implementation example.\nScore 5: Answer includes more than one example of relevant Big Data implementation.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "The student answer partially matches the scoring guideline as it provides one relevant Big Data implementation example in the tourism sector, but also includes additional unrelated examples in points 2 and 3, which are not relevant to the scoring guideline."
+    },
+    {
+        "no": 3,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer provides a relevant Big Data implementation example in the pharmaceutical field, specifically reducing the risk of prescription errors, which directly matches the scoring guideline requirement of including one relevant Big Data implementation example.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Give examples of Big Data implementation in your respective fields",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "In the pharmaceutical field, Big Data can be used to reduce the risk of prescription errors in dispensing drugs to patients. This error is the administration of drugs that are different from the prescription from the results of previous examinations carried out by the patient. Big data can summarize patient data and patient examination data completely so as to minimize human error and with the existence of these data, the patient's medical history can also be known and what drugs the patient has used so that it can be a reference for doctors to determine what drugs will be given to the patient. .",
+        "rubric": "Score 1: The answer does not include any examples of relevant Big Data implementation.\nScore 3: Answer includes one relevant Big Data implementation example.\nScore 5: Answer includes more than one example of relevant Big Data implementation.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "The student answer provides a relevant Big Data implementation example in the pharmaceutical field, specifically reducing the risk of prescription errors, which directly matches the scoring guideline requirement of including one relevant Big Data implementation example."
+    },
+    {
+        "no": 4,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.0,
+            "reason": "The student answer does not provide more than one example of relevant Big Data implementation, instead, it only provides one example of Big Data implementation in the health sector, and the additional text seems to be a repetition of examples from other fields, but not integrated into the student's own answer.",
+            "rubric_text": "Answer includes more than one example of relevant Big Data implementation.",
+            "rubric_score": 5
+        },
+        "question": "Give examples of Big Data implementation in your respective fields",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "The SIMRS hospital information system will summarize all patient data and patient examination data. With the recapitulation of patient data, it is expected to help medical personnel in reducing drug prescription errors and can summarize patient transaction data in depth. For this reason, it is necessary to implement Big Data which aims to analyze patient recapitulation data to help medical personnel in reducing drug prescription errors.",
+        "rubric": "Score 1: The answer does not include any examples of relevant Big Data implementation.\nScore 3: Answer includes one relevant Big Data implementation example.\nScore 5: Answer includes more than one example of relevant Big Data implementation.",
+        "score": 5,
+        "key": "response-2",
+        "reasoning": "The student answer does not provide more than one example of relevant Big Data implementation, instead, it only provides one example of Big Data implementation in the health sector, and the additional text seems to be a repetition of examples from other fields, but not integrated into the student's own answer."
+    },
+    {
+        "no": 5,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer provides a relevant Big Data implementation example, specifically the use of big data for biometric data storage and CCTV cameras with AI face recognition in security systems in authoritarian countries, which directly matches the scoring guideline.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Give examples of Big Data implementation in your respective fields",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "Big data is used for biometric data storage and CCTV cameras, and AI face recognition is used, usually used in security systems in authoritarian countries. If recorded by CCTV, the authorities can easily search for or find out the identity of the person in real time. This can make it easier for the government to monitor its people.",
+        "rubric": "Score 1: The answer does not include any examples of relevant Big Data implementation.\nScore 3: Answer includes one relevant Big Data implementation example.\nScore 5: Answer includes more than one example of relevant Big Data implementation.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "The student answer provides a relevant Big Data implementation example, specifically the use of big data for biometric data storage and CCTV cameras with AI face recognition in security systems in authoritarian countries, which directly matches the scoring guideline."
+    },
+    {
+        "no": 6,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.5,
+            "reason": "The student answer partially matches the scoring guideline as it provides one relevant Big Data implementation example in the field of veterinary medicine, but lacks detailed explanation and examples in different industries.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Give examples of Big Data implementation in your respective fields",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "Livestock transportation is one of the significant factors in the spread of disease. Livestock that are moved from one area to another can carry disease agents that can infect other livestock in the new area. An example of big data that can be implemented in the field of veterinary medicine is livestock traffic rate data. This data can later be used to track animal movements and animal diseases.",
+        "rubric": "Score 1: The answer does not include any examples of relevant Big Data implementation.\nScore 3: Answer includes one relevant Big Data implementation example.\nScore 5: Answer includes more than one example of relevant Big Data implementation.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "The student answer partially matches the scoring guideline as it provides one relevant Big Data implementation example in the field of veterinary medicine, but lacks detailed explanation and examples in different industries."
+    }
+]

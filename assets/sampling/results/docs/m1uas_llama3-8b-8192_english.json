@@ -1,0 +1,19 @@
+[
+    {
+        "no": 1,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Apple Siri, Google Maps, and Face recognition on Facebook, which meets the guideline's requirement of including more than two examples.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence is an artificial intelligence system which is created as a simulation of human intelligence that is processed or run by a machine, especially a computer system. Examples of AI: Apple Siri, Google Maps, and Face recognition on Facebook.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Apple Siri, Google Maps, and Face recognition on Facebook, which meets the guideline's requirement of including more than two examples."
+    }
+]

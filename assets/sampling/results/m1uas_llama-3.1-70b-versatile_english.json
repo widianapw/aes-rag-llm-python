@@ -1,0 +1,342 @@
+[
+    {
+        "no": 1,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it provides a description of Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Apple Siri, Google Maps, and Face recognition on Facebook.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence is an artificial intelligence system which is created as a simulation of human intelligence which is processed or executed by a machine, especially a computer system. Examples of AI: Apple Siri, Google Maps, and Face recognition on Facebook.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it provides a description of Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Apple Siri, Google Maps, and Face recognition on Facebook."
+    },
+    {
+        "no": 2,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) as a computer program with human-like intelligence and provides more than two examples of AI, specifically Google Assistant, Automated messages from telephone service operators, and NPCs in computer games.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI artificial intelligence is a computer program that is created and developed to have intelligence that is close to human. Examples: - Google Assistant - Automated messages from telephone service operators - NPCs in computer games",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) as a computer program with human-like intelligence and provides more than two examples of AI, specifically Google Assistant, Automated messages from telephone service operators, and NPCs in computer games."
+    },
+    {
+        "no": 3,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides three examples of AI, namely robotic service, Tesla car, and smart home, exceeding the guideline's requirement of more than two examples.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "It is a programmed machine or artificial intelligence that is based on human intelligence and does what is ordered by humans based on the results of the program given, for example: Robotic service at one of the ramen outlets in Japan, a Tesla car which is a car with an automatic driver, a smart home where all components such as lights, electricity, air conditioning and others are controlled via Google Assistant.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides three examples of AI, namely robotic service, Tesla car, and smart home, exceeding the guideline's requirement of more than two examples."
+    },
+    {
+        "no": 4,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, including Google maps, smart cars, and e-commerce applications, demonstrating a clear understanding of AI and its applications.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence is a technology created to stimulate intelligence in humans and then apply it to machines, such as computers. technology that seems to be able to replace human tasks. examples: Google maps, smart cars that drive automatically, the application of AI in e-commerce, especially in the explore section of e-commerce goods.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, including Google maps, smart cars, and e-commerce applications, demonstrating a clear understanding of AI and its applications."
+    },
+    {
+        "no": 5,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer provides a clear description of Artificial Intelligence (AI) and includes more than two examples of AI, specifically three examples: Tesla cars, Youtube Recommends, and Google Assistant, which perfectly matches the scoring guideline.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial intelligence is intelligence added to a system that can be arranged in a scientific context or can also be called artificial intelligence English: Artificial Intelligence or simply abbreviated as AI, is defined as the intelligence of a scientific entity. Artificial intelligence or Artificial Intelligence AI is a simulation of intelligence possessed by humans that is modeled in machines and programmed to think like humans. Meanwhile, according to Mc Leod and Schell, artificial intelligence is the activity of providing machines such as computers with the ability to display behavior that is considered as intelligent as if the ability was displayed by humans. In other words, AI is a computer system that can do jobs that generally require human power or human intelligence to complete the job. Example: - Tesla cars determine the way autonomously - Youtube Recommends videos based on the videos we watch - Google Assistant Recognizes voice and turns it into interaction with its users",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer provides a clear description of Artificial Intelligence (AI) and includes more than two examples of AI, specifically three examples: Tesla cars, Youtube Recommends, and Google Assistant, which perfectly matches the scoring guideline."
+    },
+    {
+        "no": 6,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer accurately describes Artificial Intelligence (AI) and provides more than two examples of AI, including search engines, virtual assistants, and autonomous cars, which perfectly matches the scoring guideline.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence is intelligence implemented in a computer system that can imitate the way humans think in completing a job. Examples: 1. Search engines like Google 2. Virtual Assistants like Siri, Alexa, Google Assistant, etc. 3. Autonomous Car like Tesla to run automatically",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer accurately describes Artificial Intelligence (AI) and provides more than two examples of AI, including search engines, virtual assistants, and autonomous cars, which perfectly matches the scoring guideline."
+    },
+    {
+        "no": 7,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically three examples: Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI).",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI is artificial intelligence, where computers or machines, software, and systems have the ability to obtain and apply human knowledge. In AI, there are learning processes, decision-making, and self-correction. 3 examples of AI 1. Artificial Narrow Intelligence ANI Is a machine learning, usually operating in 1 area and solving 1 problem 2. Artificial General Intelligence AGI Is machine intelligence, the computer's ability to apply knowledge is equivalent to humans, matching human intelligence 3. Artificial Super Intelligence ASI Is machine consciousness, usually in the form of deep learning and has intelligence above human intelligence.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically three examples: Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI)."
+    },
+    {
+        "no": 8,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes AI as the ability to think and gain knowledge done by computer machines and provides more than two examples of AI, including automatic cars, car plate recognition, and strategy games like chess, meeting the guideline's requirements.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI Artificial Intelligence is the ability to think and gain knowledge done by computer machines. AI is used in various fields and some examples include automatic cars such as Tesla, car plate recognition, or as a machine in strategy games such as chess.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes AI as the ability to think and gain knowledge done by computer machines and provides more than two examples of AI, including automatic cars, car plate recognition, and strategy games like chess, meeting the guideline's requirements."
+    },
+    {
+        "no": 9,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) as a program that processes information automatically and provides more than two examples of AI, specifically Google maps, Apple Siri, and Google Assistant.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence is a program where information or intelligence will be processed by the machine automatically. Example: - Google maps - Apple Siri - Google Assistant",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) as a program that processes information automatically and provides more than two examples of AI, specifically Google maps, Apple Siri, and Google Assistant."
+    },
+    {
+        "no": 10,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.75,
+            "reason": "The student answer matches the scoring guideline as it describes AI as a simulation of intelligence modeled in a machine, and provides three examples of AI, meeting the requirement of more than two examples.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "A simulation of intelligence modeled in a machine. Examples: Google navigation, social media, banking services.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes AI as a simulation of intelligence modeled in a machine, and provides three examples of AI, meeting the requirement of more than two examples."
+    },
+    {
+        "no": 11,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically four examples: virtual assistants, movie recommendations, shopping recommendations, and systems for recognizing faces.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial intelligence is a machine that can simulate human intelligence so that with these systems the machine can do work that usually requires human power. Examples of AI include virtual assistants, movie recommendations, shopping recommendations, and systems for recognizing faces.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically four examples: virtual assistants, movie recommendations, shopping recommendations, and systems for recognizing faces."
+    },
+    {
+        "no": 12,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.75,
+            "reason": "The student answer partially matches the scoring guideline as it describes AI and provides three examples (GPS, speech text, and VR), but the description of AI is somewhat redundant and could be more concise.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence AI is an artificial intelligence program that is made to resemble human actions and thought patterns using machines, for example GPS, use of speech text, VR virtual reality.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer partially matches the scoring guideline as it describes AI and provides three examples (GPS, speech text, and VR), but the description of AI is somewhat redundant and could be more concise."
+    },
+    {
+        "no": 13,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically listing Google Maps, Apple Siri, and Face lock password.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI Artificial Intelligence is a process run by a machine or computer system, which resembles or simulates similar abilities to humans. Some human abilities that can be simulated include the ability to learn, make decisions, and correct mistakes. Examples of AI: - Google Maps - Apple Siri - Face lock password",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically listing Google Maps, Apple Siri, and Face lock password."
+    },
+    {
+        "no": 14,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and includes more than two examples of AI, specifically four examples: Google Maps, Alexa, Siri, and Face Recognition applications.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI or Artificial Intelligence is a machine created to stimulate human intelligence that is processed through machines, especially computer systems. The process includes learning, decision-making, and self-correction. Examples of AI are Google Maps, Alexa, Siri, and Face Recognition applications.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and includes more than two examples of AI, specifically four examples: Google Maps, Alexa, Siri, and Face Recognition applications."
+    },
+    {
+        "no": 15,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically mentioning Tesla cars, Siri on Google, and Netflix, although the description of AI is somewhat vague and lacks clarity.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI is artificial intelligence from the branch of science in the field of computers, the contents of which emphasize more on human thought patterns and work, developments in terms of machine intelligence, and so on, for example in Tesla cars, Siri on Google, and on Netflix.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically mentioning Tesla cars, Siri on Google, and Netflix, although the description of AI is somewhat vague and lacks clarity."
+    },
+    {
+        "no": 16,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes AI as 'intelligence created by humans based on a scientific context' and provides more than two examples of AI, including AI for drug discovery and pharmaceutical science, Genose Human AI, and Mr. Sunu's YouTube video, meeting the guideline's requirements.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI Artificial Intelligence or artificial intelligence is intelligence created by humans based on a scientific context. Examples of AI: AI for drug discovery and pharmaceutical science Genose Human AI on IG instagram.comthalasya Mr. Sunu's YouTube video during synchronous lectures",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes AI as 'intelligence created by humans based on a scientific context' and provides more than two examples of AI, including AI for drug discovery and pharmaceutical science, Genose Human AI, and Mr. Sunu's YouTube video, meeting the guideline's requirements."
+    },
+    {
+        "no": 17,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer matches the scoring guideline as it provides a clear description of Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Virtual Assistants, E-Commerce Recommendations, and Facebook's DeepFace, thereby fully meeting the guideline's requirements.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "AI is a simulation of human intelligence that is modeled in a machine model and programmed to think like a human. Examples of AI - Virtual Assistants such as Apple's Siri, Amazon's Alexa, and Microsoft's Cortana - E-Commerce Recommendations recommendations based on user behavior - Facebook's DeepFace functions to recognize people's faces in photo posts.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it provides a clear description of Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Virtual Assistants, E-Commerce Recommendations, and Facebook's DeepFace, thereby fully meeting the guideline's requirements."
+    },
+    {
+        "no": 18,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, including Google Maps, Siri/Alexa, and Tesla cars, which demonstrates a good understanding of the concept.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence is one of the developments where a machine has intelligence that is equal to the intelligence of the human brain, such as in a computer system. Examples of AI are Google Maps, SiriAlexa, and Tesla cars can run without a driver.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, including Google Maps, Siri/Alexa, and Tesla cars, which demonstrates a good understanding of the concept."
+    },
+    {
+        "no": 19,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically mentioning Alexa, Siri, and Google's Assistantmaps, although the last one seems to be a typo and might be referring to Google Assistant and Google Maps separately.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial Intelligence is Intelligence demonstrated by human-made machines. AI does not have consciousness and emotions like Intelligence demonstrated by humans. 3 examples of AI: Alexa, Siri, and Googles Assistantmaps.",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and provides more than two examples of AI, specifically mentioning Alexa, Siri, and Google's Assistantmaps, although the last one seems to be a typo and might be referring to Google Assistant and Google Maps separately."
+    },
+    {
+        "no": 20,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.75,
+            "reason": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Google Assistant, Apple Siri speech recognition, and Alexa, although it does not fully elaborate on the examples.",
+            "rubric_text": "The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+            "rubric_score": 5
+        },
+        "question": "What is meant by AI (Artificial Intelligence) and name 3 (three) examples",
+        "ground_truth": "Artificial Intelligence (AI) refers to a branch of computer science that creates systems capable of performing tasks requiring human intelligence, such as language comprehension, learning, reasoning, and perception. Three examples of AI applications are: 1. Voice Recognition: Systems like Siri, Alexa, and Google Assistant that interpret and respond to voice commands. 2. Computer Vision: Technology allowing computers to \"see\" and interpret visual content, such as facial recognition or autonomous vehicle systems. 3. Natural Language Processing (NLP): Machines understanding and interacting with human language, used in chatbots, translators, and semantic search.",
+        "answer": "Artificial intelligence refers to the simulation of human intelligence in machines, especially computer systems that are programmed to think like humans and imitate their actions, mimicking human intelligence processes. The processes imitated include learning, acquiring information and using information, and decision-making and self-correction. What distinguishes AI from humans is consciousness and emotion. Examples: Google Assistant, Apple Siri speech recognition, Alexa",
+        "rubric": "Score 1: Answer does not explain what Artificial Intelligence (AI) is and does not include examples.\nScore 2: Answer describes Artificial Intelligence (AI) and does not include any examples.\nScore 3: Answer explains Artificial Intelligence (AI) and includes one relevant example.\nScore 4: The answer explains Artificial Intelligence (AI) and includes two examples of AI.\nScore 5: The answer describes Artificial Intelligence (AI) and includes more than two examples of AI.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "The student answer matches the scoring guideline as it describes Artificial Intelligence (AI) and includes more than two examples of AI, specifically mentioning Google Assistant, Apple Siri speech recognition, and Alexa, although it does not fully elaborate on the examples."
+    }
+]

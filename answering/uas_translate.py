@@ -60,16 +60,6 @@ rag_chain = (
     | StrOutputParser()
 )
 
-
-# load json file
-# kuis_responses = []
-# with open("../assets/kuis.json", "r") as f:
-#     kuis_responses = json.load(f)
-#     kuis_responses = filter(lambda x: x['key'] == 'response-1', kuis_responses)
-#     kuis_responses = list(kuis_responses)
-# #     get the first 5 responses
-# kuis_responses = kuis_responses[:5]
-
 # kuis question
 questions = []
 with open("../assets/uas_question.json", "r") as f:

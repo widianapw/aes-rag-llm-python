@@ -1,0 +1,444 @@
+[
+    {
+        "no": 1,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "1. Veracity Kebenaran Merupakan tingkat kebenaran Big Data, apakah data yang dikandung benar-benar bersih dan tepat atau tidak. Kebenaran data ekuivalen dengan kualitas data tersebut. 2. Value Nilai Merupakan tingkat nilai Big Data, apakah data yang dikandung benar-benar memiliki nilai atau tidak. Banyak data pada Big Data yang merupakan data bernilai tinggi dan tentu saja harus memiliki prosedur khusus untuk dapat mengaksesnya.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 2,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Dua ciri yang lain yaitu: a. Veracity, big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan analisis yang mendalam. b. Value, big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna. Referensi: Prayogo, C., 2019, Apa Itu Big Data https:www.wartaekonomi.co.idread261904apa-itu-big-data, diakses pada 07 Mei 2021.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 3,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity berarti big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar bisa menghasilkan keputusan yang tepat. Veracity mengarah pada seberapa akurat dan dipercaya suatu data  Value berarti big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna.atau dapat juga dikatakan seberapa bernilainya atau bermaknanya suatu data",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 4,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity berarti big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar bisa menghasilkan keputusan yang tepat. Value berarti big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 5,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity : Dalam konteks ini setara dengan kualitas. Kita memiliki semua datanya, tapi apakah datanya benar, bisakah ada data yang terlewatkan, Apakah datanya bersih dan akurat, Apakah mereka benar-benar memiliki sesuatu untuk ditawarkan. sehingga veracity ini merupakan kebenaran data yang kita dapatkan. Value : Nilai dari data yang kita dapatkan untuk menjalankan apa yang ingin dijalankan seperti bisnis.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 6,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "1. Value bernilai dan bermakna: big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat. 2. Veracity akurat: big data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar bisa menghasilkan keputusan yang tepat.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 7,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "2V selain Variety, Velocity, dan Volume adalah V dan Value. 1. Veracity. Big Data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis big data agar dapat menghasilkan keputusan yang tepat. Veracity mengarah kepada seberapa akurat dan dapat dipercayanya suatu data. 2. Value, memiliki arti bahwa Big Data memiliki nilai yang sangat besar apabila diolah dengan cara yang tepat atau dapat juga diartikan sebagai seberapa bernilainya suatu data.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 8,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', perfectly aligning with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "1. VeracityValidity: kualitas data yang akurat, benar, dan terpercaya sehingga membantu proses pengambilan keputusan yang tepat. 2. Value: kemampuan mengubah data menjadi sesuatu yang bernilai, berdampak, atau berguna",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 9,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.0,
+            "reason": "The student answer does not mention and provide relevant explanations for both concepts 'Veracity' and 'Value' as required by the scoring guideline, instead it only mentions Volume, Velocity, and Variety.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Volume yaitu jumlah big data yang terus bertambah dan terus diproduksi setiap hari yang tersimpan dalam format digital internet. Velocity yaitu kecepatan pertumbuhan atau pertambahan big data yang tidak bisa dikontrol sehingga sulit mengolah data tersebut dengan teknologi konvensional. Variety yaitu macam macam data yang tersedia dalam big data.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa tidak menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai' sebagaimana dipersyaratkan oleh pedoman penilaian, sebaliknya hanya menyebutkan Volume, Kecepatan, dan Variasi."
+    },
+    {
+        "no": 10,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.5,
+            "reason": "The student answer partially matches the scoring guideline as it mentions and provides relevant explanations for 'Value' but only mentions 'Veracity' in the breakdown without providing a clear explanation in the initial answer.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Visualisasi sangat penting dalam menghadirkan data yang dapat dimengerti secara lebih mudah. Value, dimana data pada akhirnya harus menciptakan suatu nilai bagi perusahaan atau organisasi.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa sebagian sesuai dengan pedoman penilaian karena menyebutkan dan menyediakan penjelasan relevan untuk 'Nilai' tetapi hanya menyebutkan 'Kebenaran' dalam uraian tanpa menyediakan penjelasan yang gamblang dalam jawaban awal."
+    },
+    {
+        "no": 11,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.0,
+            "reason": "The student answer does not mention and provide relevant explanations for both concepts 'Veracity' and 'Value' as required by the scoring guideline, instead it discusses 'Variability' and 'Visualization' which are not relevant to the guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Variability yaitu kontinuitas perubahan data yang terjadi secara terus menerus. Visualisasi digunakan dalam menghadirkan data yang dapat dimengerti secara lebih mudah.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa tidak menyebutkan dan memberikan penjelasan yang relevan baik terhadap konsep 'Veracity' maupun 'Value' seperti yang dipersyaratkan dalam pedoman penilaian, melainkan membahas tentang 'Variabilitas' dan 'Visualisasi' yang tidak relevan dengan pedoman tersebut."
+    },
+    {
+        "no": 12,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.5,
+            "reason": "The student answer mentions only one of 'Veracity' or 'Value' with a relevant explanation, specifically 'Value', which aligns with the scoring guideline, but does not mention 'Veracity' as defined in the breakdown, resulting in a partial match.",
+            "rubric_text": "The answer mentions only one of 'Veracity' or 'Value' with a relevant explanation.",
+            "rubric_score": 3
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Variability yaitu kontinuitas perubahan data yang terjadi secara terus menerus. Value yaitu data pada akhirnya harus menciptakan suatu nilai bagi perusahaan atau organisasi.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 3,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa hanya menyebutkan salah satu dari 'Kebenaran' atau 'Nilai' dengan penjelasan relevan, khususnya 'Nilai', yang selaras dengan pedoman penilaian, tetapi tidak menyebutkan 'Kebenaran' sebagaimana didefinisikan dalam uraian, sehingga menghasilkan kecocokan sebagian."
+    },
+    {
+        "no": 13,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "VALUE nilai dan VERACITY kejujuran a. Value nilai adalah fungsi atau kegunaan dari data. Big data memiliki nilai yang sangat tinggi apabila diolah dengan baik. b. Veracity kejujuran adalah kerentanan dari sisi keakuratan dan kevaliditasan dari big data sehingga memerlukan kedalaman untuk menganalisis big data agar bisa menghasilkan keputusan yang tepat.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 14,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', perfectly matching the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity dan value",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', sangat sesuai dengan pedoman penilaian."
+    },
+    {
+        "no": 15,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.5,
+            "reason": "The student answer only partially matches the scoring guideline as it mentions and provides a relevant explanation for 'Veracity' but does not mention 'Value' at all.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "a. VALIDITY: Berhubungan dengan kualitas data, tata kelola, dan pengelolaan data master secara massive b. VERACITY: Kebenaran data. Informasi yang diolah dari data tersebut agar bisa menjadi informasi yang bermanfaat dan bisa dipercaya, kita juga harus melihat sumber data yang digunakan.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa hanya sebagian sesuai dengan pedoman penilaian karena menyebutkan dan menyediakan penjelasan relevan untuk 'Kebenaran' tetapi tidak menyebutkan 'Nilai' sama sekali."
+    },
+    {
+        "no": 16,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "1. Veracity : mengarah pada seberapa akurat dan dapat dipercaya karena big data memiliki kerentanan dalam sisi keakuratan sehingga memerlukan kedalaman untuk menganalisis big data supaya menghasilkan keputusan yang tepat. 2. Value : big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat untuk mengerti kebermaknaan suatu data.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 17,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.5,
+            "reason": "The student answer mentions 'Veracity' but not 'Value', and incorrectly uses 'Volality' instead of 'Volatility', and does not provide a clear explanation for both concepts as required by the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "- Veracity data yang berjalan cepat bisa jadi data yang bias, abnormal, dan terlalu riuh untuk langsung digunakan. Artinya, perlu ada strategi untuk mereduksi dan mengolah big data yang didapatkan itu supaya dapat berfungsi. - Volality kita perlu menimbang jawaban dari pertanyaan seberapa lama data itu valid dan seberapa lama perlu ditampilkan volatility. Hal ini terkait dengan aspek velocitiy di mana sangat dimungkinkan untuk mendapatkan data yang real time. Perlu ada pertimbangan khusus untuk menilai relevansi data dengan kebutuhan pengelola kota.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa menyebutkan 'Veracity' tetapi tidak 'Value', dan salah menggunakan 'Volality' dan bukan 'Volatility', serta tidak memberikan penjelasan yang jelas untuk kedua konsep tersebut seperti yang disyaratkan oleh pedoman penilaian."
+    },
+    {
+        "no": 18,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.8,
+            "reason": "The student answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning with the scoring guideline, although the explanation for Veracity is brief and could be more detailed.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Veracity, yaitu Big Data mempunyai kerentanan dari sisi keakuratan dan kevaliditasan sehingga perlu kedalaman untuk menganalisis Big Data agar bisa menghasilkan keputusan yang tepat. Value, berarti Big Data mempunyai nilai yang sangat tinggi apabila diolah dengan cara yang tepat.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras dengan pedoman penilaian, meskipun penjelasan untuk Kebenaran singkat dan bisa lebih rinci."
+    },
+    {
+        "no": 19,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Selain 3V, yaitu Variety, Velocity, dan Volume, 2V yang lain yang termasuk ciri dari Big Data, yaitu :  Veracity. Veracity atau kebenaran merupakan ciri dari Big Data yang memiliki makna bahwa Big Data memiliki derajat reliabilitas terentu dari data. Oleh karena mayoritas dari data bersifat tidak terstruktur dan tidak relevan, Big Data perlu jalan alternatif untuk menyaring data-data yang tidak sesuai tersebut, atau menerjemahkannya jika perlu apabila dibutuhkan. Dalam hal ini, Big Data memiliki kerentanan dari sisi keakuratan dan kevaliditasan sehingga memerlukan kedalaman untuk menganalisis Big Data agar bisa menghasilkan keputusan yang tepat. Dengan demikian, Big Data harus mencapai derajat reliabilitas tertentu agar data-data yang ada valid untuk digunakan dalam implementasinya.  Value. Value atau nilai mencakup bukan hanya banyaknya data pada Big Data yang disimpan dan diproses, namun termasuk di dalamnya banyaknya data yang berharga, bernilai benar, dan valid yang harus disimpan, diproses, dan dianalisis dalam implementasinya. Dengan demikian, Big Data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 20,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer explicitly mentions and provides relevant explanations for both concepts 'Veracity' and 'Value', aligning perfectly with the scoring guideline.",
+            "rubric_text": "Answer mentions and provides relevant explanations for both concepts 'Veracity' and 'Value'.",
+            "rubric_score": 5
+        },
+        "question": "Pada modul telah dijelaskan mengenai 3 ciri Big Data yaitu Variety, Velocity, dan Volume. Sebutkan dan jelaskan 2V lainnya yang telah dijelaskan pada modul.",
+        "ground_truth": "The other two Vs are: 1. Veracity: Refers to the quality and accuracy of data. In large data sets, there is often incomplete, inaccurate, or irrelevant data, which can disrupt the analysis process if not handled properly. 2. Value: Refers to the value or information that can be obtained from Big Data processing. Having large volumes of data with high velocity, variety, and veracity is useless without the ability to convert it into business value or useful knowledge.",
+        "answer": "Value berarti big data memiliki nilai yang sangat tinggi apabila diolah dengan cara yang tepat guna atau dapat juga dikatakan seberapa bernilainya atau bermaknanya suatu data. Veracity mengacu pada kepercayaan data. Semakin banyak data dikumpulkan dan dianalisis secara otomatis akan tetapi tidak ditangkap secara keseluruhan karena volume dan kecepatan tinggi. semakin besar data semakin tinggi pula ketidakpastian tentang keakuratan data tersebut.",
+        "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
+        "score": 5,
+        "key": "response-1",
+        "reasoning": "Jawaban siswa secara eksplisit menyebutkan dan memberikan penjelasan relevan untuk kedua konsep 'Kebenaran' dan 'Nilai', selaras sempurna dengan pedoman penilaian."
+    },
+    {
+        "no": 1,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.5,
+            "reason": "The student answer partially matches the scoring guideline as it provides one relevant Big Data implementation example in the field of Business Economics, but lacks additional examples to fully meet the guideline's implicit expectation of multiple examples.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "Contoh implementasi Big Data adalah pada bidang Ekonomi Bisnis dimana Big Data menyimpan data rekeningtabungan masing-masing dari nasabah dalam suatu wadah yang besar. Ketika akan melakukan suatu proses misal penarikan uang, pengiriman uang, maka diperlukan prosedur tertentu untuk dapat memprosesnya.",
+        "rubric": "\nSkor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan satu contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari satu contoh implementasi Big Data yang relevan.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "Jawaban siswa sebagian sesuai dengan pedoman penilaian karena memberikan satu contoh implementasi Big Data yang relevan di bidang Ekonomi Bisnis, tetapi tidak memiliki contoh tambahan untuk sepenuhnya memenuhi harapan implisit pedoman akan beberapa contoh."
+    },
+    {
+        "no": 2,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.5,
+            "reason": "The student answer partially matches the scoring guideline as it provides one relevant Big Data implementation example in the tourism sector, but also includes additional unrelated examples in points 2 and 3, which are not relevant to the scoring guideline.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "Contoh implementasi big data di bidang pariwisata, yaitu penggunaan big data untuk memetakan potensi dan menguatkan berbagai aspek pada sektor pariwisata dan ekonomi kreatif. Contohnya penggunaan big data berbagai platform social media untuk mempromosikan suatu destinasi wisata.",
+        "rubric": "\nSkor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan satu contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari satu contoh implementasi Big Data yang relevan.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "Jawaban siswa sebagian sesuai dengan pedoman penilaian karena memberikan satu contoh implementasi Big Data yang relevan di sektor pariwisata, tetapi juga menyertakan contoh tambahan yang tidak terkait pada poin 2 dan 3, yang tidak relevan dengan pedoman penilaian."
+    },
+    {
+        "no": 3,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer provides a relevant Big Data implementation example in the pharmaceutical field, specifically reducing the risk of prescription errors, which directly matches the scoring guideline requirement of including one relevant Big Data implementation example.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "Dalam bidang farmasi, Big data dapat digunakan untuk mengurangi risiko kesalahan resep obat dalam menyerahkan obat kepada pasien. Kesalahan ini adalah pemberian obat yang berbeda dengan resep ibat dari hasil pemeriksaan sebelumnya yang dilakukan pasien. Big data dapat merekap data-data pasien dan data-data pemeriksaan pasein secara lengkap sehingga meminimalisasikamn kesalahan dari manusia dan dengan adanya data-data tesebut juga dapat diketahui riwayat penyakit pasien serta obat-obat apa saja yang sudah pernah digunakan pasein sehingga dapat menjadi referensi dokter untuk menentukan obat apa yang akan diberikan ke pasien tesebut. .",
+        "rubric": "\nSkor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan satu contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari satu contoh implementasi Big Data yang relevan.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "Jawaban siswa memberikan contoh implementasi Big Data yang relevan di bidang farmasi, khususnya mengurangi risiko kesalahan resep, yang secara langsung sesuai dengan persyaratan pedoman penilaian untuk menyertakan satu contoh implementasi Big Data yang relevan."
+    },
+    {
+        "no": 4,
+        "raw": {
+            "is_match": 0,
+            "match_rate": 0.0,
+            "reason": "The student answer does not provide more than one example of relevant Big Data implementation, instead, it only provides one example of Big Data implementation in the health sector, and the additional text seems to be a repetition of examples from other fields, but not integrated into the student's own answer.",
+            "rubric_text": "Answer includes more than one example of relevant Big Data implementation.",
+            "rubric_score": 5
+        },
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "Sistem informasi rumah sakit SIMRS dimana akan merekap semua data-data pasien dan data pemeriksaan pasien. Dengan adanya rekapan data pasien diharapkan membantu petugas medis dalam mengurangi kesalahan resep obat dan bisa merekap data transaksi pasien secara mendalam. Untuk itu perlu diimplementasikan Big Data yang bertujuan menganalisa data rekap pasien untk membantu petugas medis dalam mengurangi kesalahan resep obat.",
+        "rubric": "\nSkor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan satu contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari satu contoh implementasi Big Data yang relevan.",
+        "score": 5,
+        "key": "response-2",
+        "reasoning": "Jawaban mahasiswa tidak memberikan lebih dari satu contoh penerapan Big Data yang relevan, malah hanya memberikan satu contoh penerapan Big Data di bidang kesehatan, dan pada teks tambahan tersebut seolah-olah merupakan pengulangan contoh dari bidang lain, namun tidak terintegrasi. ke dalam jawaban siswa itu sendiri."
+    },
+    {
+        "no": 5,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 1.0,
+            "reason": "The student answer provides a relevant Big Data implementation example, specifically the use of big data for biometric data storage and CCTV cameras with AI face recognition in security systems in authoritarian countries, which directly matches the scoring guideline.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "Big data digunakan untuk penyimpanan data biometric dan camera cctv, dan digunakan AI face recognition, biasanya digunakan pada sistem keamanan di negara otoriter. Jika terekam CCTV maka pihak berwajib dapat dengan mudah mencari atau mengetahui identitas dari orang tersebut secara real time. Hal ini dapat memudahkan pemerintah dalam memonitor masyarakatnya.",
+        "rubric": "\nSkor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan satu contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari satu contoh implementasi Big Data yang relevan.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "Jawaban siswa memberikan contoh implementasi Big Data yang relevan, khususnya penggunaan big data untuk penyimpanan data biometrik dan kamera CCTV dengan pengenalan wajah AI dalam sistem keamanan di negara-negara otoriter, yang secara langsung sesuai dengan pedoman penilaian."
+    },
+    {
+        "no": 6,
+        "raw": {
+            "is_match": 1,
+            "match_rate": 0.5,
+            "reason": "The student answer partially matches the scoring guideline as it provides one relevant Big Data implementation example in the field of veterinary medicine, but lacks detailed explanation and examples in different industries.",
+            "rubric_text": "Answer includes one relevant Big Data implementation example.",
+            "rubric_score": 3
+        },
+        "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
+        "ground_truth": "Here are some examples of Big Data implementation in various fields: 1. Social Media Sentiment Analysis: Companies can use Big Data to analyze sentiment on social media towards their brand, product or service. By monitoring millions of tweets, Facebook posts, and other online reviews, they can understand customer views in real-time, identify trends, and respond quickly to changing perceptions or emerging issues. 2. Health Data Processing: In the health sector, Big Data is used to analyze clinical, genomic and other patient data to discover patterns, trends, and associations that can assist in disease diagnosis, drug development, and more effective and personalized treatment planning. 3. Supply Chain Optimization: Companies operating in the manufacturing or retail industry use Big Data to optimize their supply chains. By analyzing data related to customer demand, inventory, and production processes, they can identify areas where efficiency can be improved, reduce costs, and increase customer satisfaction by ensuring the right product is available at the right time.",
+        "answer": "Transportasi ternak merupakan salah satu faktor penyebaran penyakit yang bermakna. Ternak yang dipindahkan dari satu daerah ke daerah lain bisa saja membawa agen penyakit yang dapat menulari ternak lainnya di daerah yang baru. Contoh big data yang bisa diimplementasikan di bidang kedokteran hewan adalah data laju lalu lintas ternak. Data ini nantinya bisa digunakan untuk melacak pergerakan hewan beserta penyakit hewan.",
+        "rubric": "\nSkor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan satu contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari satu contoh implementasi Big Data yang relevan.",
+        "score": 3,
+        "key": "response-2",
+        "reasoning": "Jawaban siswa sebagian sesuai dengan pedoman penilaian karena memberikan satu contoh implementasi Big Data yang relevan di bidang kedokteran hewan, tetapi tidak memiliki penjelasan dan contoh terperinci di berbagai industri."
+    }
+]

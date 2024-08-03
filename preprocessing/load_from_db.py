@@ -37,9 +37,10 @@ cursor = mydb.cursor()
 scores_per_user = []
 
 for user_id in user_ids:
-    cursor.execute("""SELECT answer_scores.id, user_id,answer_id, score, answers.no 
+    cursor.execute("""SELECT answer_scores.id, user_id,answer_id, score, answers.no, answers.question_id, questions.key, questions.subject_id
     FROM answer_scores 
     JOIN answers ON answer_scores.answer_id = answers.id
+    JOIN questions ON answers.question_id = questions.id
     WHERE user_id = %s order by answer_id asc""",
                    (user_id,))
     user_scores = cursor.fetchall()
@@ -54,7 +55,10 @@ for user_id in user_ids:
         temp_scores.append(score)
         temp_answer_ids.append(answer_id)
         score_objs.append({
+            "question_id": user_score[5],
+            "key": user_score[6],
             "no": user_score[4],
+            "subject": "kuis" if user_score[7] == 1 else "uas",
             "score": score
         })
 

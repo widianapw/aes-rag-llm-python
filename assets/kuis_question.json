@@ -5,7 +5,8 @@
     "column": "Response 1",
     "subject": "kuis",
     "rubric": "\nSkor 1: Jawaban tidak menyebutkan 'Veracity' maupun 'Value' atau jawaban yang diberikan tidak memiliki kaitan dengan konsep Big Data.\nSkor 2: Jawaban hanya menyebutkan istilah dari 'Veracity' atau 'Value' tanpa penjelasan yang relevan.\nSkor 3: Jawaban menyebutkan hanya salah satu dari 'Veracity' atau 'Value' dengan penjelasan yang relevan.\nSkor 4: Jawaban menyebutkan  istilah 'Veracity' dan 'Value'. Penjelasan diberikan untuk salah satu istilah tersebut dengan relevan, namun istilah kedua tidak dijelaskan atau tidak relevan.\nSkor 5: Jawaban menyebutkan dan memberikan penjelasan yang relevan untuk kedua konsep 'Veracity' dan 'Value'.",
-    "key": "response-1"
+    "key": "response-1",
+    "is_three_rubric": false
   },
   {
     "question": "Berikan contoh implementasi Big Data di bidang masing-masing selain yang disebutkan di modul.",
@@ -13,7 +14,8 @@
     "column": "Response 2",
     "subject": "kuis",
     "rubric": "\nSkor 1: Jawaban tidak ada menyertakan contoh implementasi Big Data yang relevan.\nSkor 3: Jawaban menyertakan satu contoh implementasi Big Data yang relevan.\nSkor 5: Jawaban menyertakan lebih dari satu contoh implementasi Big Data yang relevan.",
-    "key": "response-2"
+    "key": "response-2",
+    "is_three_rubric": true
   },
   {
     "question": "Sebutkan dan jelaskan secara singkat ciri-ciri kumpulan data disebut Big Data",
@@ -21,7 +23,8 @@
     "column": "Response 3",
     "subject": "kuis",
     "rubric": "\nSkor 1: Jawaban tidak menyebutkan ciri-ciri Big Data.\nSkor 2: Jawaban menyebutkan satu ciri Big Data secara singkat. \nSkor 3: Jawaban menyebutkan dua ciri Big Data secara singkat.\nSkor 4: Jawaban menyebutkan tiga ciri Big Data secara singkat.\nSkor 5: Jawaban menyebutkan lebih dari tiga ciri Big Data secara singkat.",
-    "key": "response-3"
+    "key": "response-3",
+    "is_three_rubric": false
   },
   {
     "question": "Apa yang dimaksud dengan ciri velocity?",
@@ -29,7 +32,8 @@
     "column": "Response 4",
     "subject": "kuis",
     "rubric": "\nSkor 1: Jawaban tidak menyebutkan velocity.\nSkor 3: Jawaban menyebutkan velocity namun penjelasan tidak relevan.\nSkor 5: Jawaban menyebutkan dan menjelaskan velocity dengan relevan.",
-    "key": "response-4"
+    "key": "response-4",
+    "is_three_rubric": true
   },
   {
     "question": "Apa perbedaan database relational dan data warehouse?",
@@ -37,7 +41,8 @@
     "column": "Response 5",
     "subject": "kuis",
     "rubric": "\nSkor 1: Jawaban tidak menyebutkan perbedaan antara database relasional dan data warehouse.\nSkor 3: Jawaban menyebutkan satu perbedaan antara database relasional dan data warehouse dengan penjelasan yang relevan.\nSkor 5: Jawaban menyebutkan dua atau lebih perbedaan antara database relasional dan data warehouse dengan penjelasan yang benar dan singkat.",
-    "key": "response-5"
+    "key": "response-5",
+    "is_three_rubric": true
   },
   {
     "question": "Apa tantangan-tantangan yang ada ketika mengimplementasikan Big Data?",
@@ -45,6 +50,7 @@
     "column": "Response 6",
     "subject": "kuis",
     "rubric": "\nSkor 1: Jawaban tidak menyebutkan tantangan dalam mengimplementasikan Big Data.\nSkor 3: Jawaban menyebutkan satu tantangan dalam mengimplementasikan big data.\nSkor 5: Jawaban menyebutkan lebih dari satu tantangan dalam mengimplementasikan big data.",
-    "key": "response-6"
+    "key": "response-6",
+    "is_three_rubric": true
   }
 ]

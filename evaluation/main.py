@@ -1,11 +1,10 @@
 from sklearn.metrics import cohen_kappa_score
 import numpy as np
-import matplotlib.pyplot as plt
 import json
 
 # open scores_per_user.json
 scores_per_user = []
-with open('../assets/taken_data/scores_per_user.json') as f:
+with open('../assets/taken_data/scores_per_user_transformed.json') as f:
     scores_per_user = json.load(f)
 
 rater1_scores = np.array(scores_per_user[0]["scores"])
@@ -19,7 +18,7 @@ rater5_scores = np.array(scores_per_user[4]["scores"])
 # open kuis_mistral_id.json
 kuis_mistral_scores = []
 kuis_mistral_no = []
-with open('../assets/results/kuis_mistral_id.json') as f:
+with open('../assets/results/kuis_gemma_english_transformed.json') as f:
     kuis_mistral_scores = json.load(f)
 #     get only scores
 kuis_mistral_no = [x['no'] for x in kuis_mistral_scores]
@@ -31,7 +30,7 @@ kuis_mistral_scores = [x['score'] for x in kuis_mistral_scores]
 # open uas_mistral_id.json
 uas_mistral_scores = []
 uas_mistral_no = []
-with open('../assets/results/uas_mistral_id.json') as f:
+with open('../assets/results/uas_gemma_english_transformed.json') as f:
     uas_mistral_scores = json.load(f)
 #     get only scores
 uas_mistral_no = [x['no'] for x in uas_mistral_scores]
@@ -93,13 +92,29 @@ qwk_scores_mistral4 = cohen_kappa_score(mistral_scores, rater4_scores, weights='
 qwk_scores_mistral5 = cohen_kappa_score(mistral_scores, rater5_scores, weights='quadratic')
 
 print("========================================")
-print(f'QWK mistral-rater1: {qwk_scores_mistral1}')
-print(f'QWK mistral-rater2: {qwk_scores_mistral2}')
-print(f'QWK mistral-rater3: {qwk_scores_mistral3}')
-print(f'QWK mistral-rater4: {qwk_scores_mistral4}')
-print(f'QWK mistral-rater5: {qwk_scores_mistral5}')
+print(f'QWK model-rater1: {qwk_scores_mistral1}')
+diff_mistral_rater1 = np.array(mistral_scores) - np.array(rater1_scores)
+
+print(f'QWK model-rater2: {qwk_scores_mistral2}')
+diff_mistral_rater2 = np.array(mistral_scores) - np.array(rater2_scores)
+
+print(f'QWK model-rater3: {qwk_scores_mistral3}')
+diff_mistral_rater3 = np.array(mistral_scores) - np.array(rater3_scores)
+
+print(f'QWK model-rater4: {qwk_scores_mistral4}')
+diff_mistral_rater4 = np.array(mistral_scores) - np.array(rater4_scores)
+
+print(f'QWK model-rater5: {qwk_scores_mistral5}')
+diff_mistral_rater5 = np.array(mistral_scores) - np.array(rater5_scores)
 print("========================================")
 
+print(f'diff mistral-rater1: {diff_mistral_rater1.tolist()}')
+print(f'diff mistral-rater2: {diff_mistral_rater2.tolist()}')
+print(f'diff mistral-rater3: {diff_mistral_rater3.tolist()}')
+print(f'diff mistral-rater4: {diff_mistral_rater4.tolist()}')
+print(f'diff mistral-rater5: {diff_mistral_rater5.tolist()}')
+
+print("========================================")
 print(f'QWK rater1-rater2: {qwk_scores12}')
 print(f'QWK rater1-rater3: {qwk_scores13}')
 print(f'QWK rater1-rater4: {qwk_scores14}')
